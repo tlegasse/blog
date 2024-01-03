@@ -1,0 +1,11 @@
+baseURL: https://tlegasse.github.io/blog/
+languageCode: en-us
+title: Tanner's Blog
+theme: PaperMod
+params:
+  homeInfoParams:
+    Title: Hi there
+    Content: I'll tell you about this site soon!
+  contact:
+    email: tanner.legasse@gmail.com
+  subtitle: A learner
