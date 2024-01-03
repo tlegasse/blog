@@ -36,14 +36,16 @@ Let's review the benefits of using Go in this situation:
 - A built-in package manager, rather than installing composer (another dependency) and then installing the package.
 - Built-in concurrency support, meaning that we can have multiple requests running at once, and limiting where needed (out of the box).
 - A highly readable and simplistic syntax, meaning that we can easily read and understand the code, and it's easier to maintain.
-- Best of all, it would be decoupled from the website code.
+- It would be decoupled from the website code.
+- Best of all, the compiler analyzes the code and tells you where you've made mistakes, and it won't compile until you fix them.
+
 
 ## Pain Points?
 I'm not going to lie, there are some pain points with Go, but they're not as bad as you might think.
 
 First, concurrency is not the same as parallelism, but that keeps the onus on the developer to truly understand optimization for the language.
 
-Go also handles errors differently than other languages in that error handling is generally part of a return statement and you do need to import the `errors` package to effectively communicate related program statuses. The rebuttal to this is that it's truly explicit, and the developer isn't even tempted to write a catch all error (looking at you JS).
+Go also handles errors differently than other languages in that error handling is generally part of a return statement and you do need to import the `errors` package to effectively communicate related program statuses. The rebuttal to this is that it's truly explicit, and the developer isn't even tempted to write a catch all error when they can't find the bug to prevent a fatal crash (looking at you JS).
 
 Another difficulty is that coming from a language like PHP, you're used to having a lot of tools at your disposal, and Go is a bit more bare bones, but to be frank, I feel that better tooling is preferable to more tools. You just may end up writing something that exists in many other languages.
 
