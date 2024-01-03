@@ -2,10 +2,49 @@ baseURL: https://tlegasse.github.io/blog/
 languageCode: en-us
 title: Tanner's Blog
 theme: PaperMod
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
 params:
   homeInfoParams:
     Title: Hi there
-    Content: I'll tell you about this site soon!
+    Content: >
+      I'm Tanner, a developer in the PNW. My career has been focused primarily on e-commerce development, but I love everything software.
+      I'm focusing on picking up skills associated with DevOps engineering, so expect to see posts, projects and lots of fun right here.
   contact:
     email: tanner.legasse@gmail.com
   subtitle: A learner
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: true
+  ShowToc: true
+  assets:
+    disableHLJS: false
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
