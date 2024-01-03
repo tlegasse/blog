@@ -2,6 +2,7 @@
 title: Go, Choosing a New Path
 date: 2024-01-03T14:34:31-08:00
 draft: false
+summary: I've been an e-commerce developer for most of my career, and I've been using PHP and JS for most of that time, but it's time for a change.
 cover:
   image: images/first-post.jpg
 ---
