@@ -1,4 +1,4 @@
-baseURL: https://tlegasse.github.io/blog/
+baseURL: https://www.tannerlegasse.com/
 languageCode: en-us
 title: Tanner's Blog
 theme: PaperMod
@@ -48,3 +48,9 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+module:
+  mounts:
+    - source: content
+      target: content
+      excludeFiles:
+        - templates/**
