@@ -18,12 +18,11 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
+        - identifier: github
+          url: "https://github.com/tlegasse"
+          pre: <span class="github-icon"></span>
 params:
   homeInfoParams:
-    Title: Hi there
-    Content: >
-      I'm Tanner, a developer in the PNW. My career has been focused primarily on e-commerce development, but I love everything software.
-      I'm focusing on picking up skills associated with DevOps engineering, so expect to see posts, projects and lots of fun right here.
   contact:
     email: tanner.legasse@gmail.com
   subtitle: A learner
@@ -37,6 +36,10 @@ params:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
+  mainSections:
+    - projects
+    - posts
+  disableSpecial1stPost: true
 markup:
   goldmark:
     renderer:

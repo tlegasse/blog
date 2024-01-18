@@ -1,0 +1,7 @@
+{{ if .IsHome }}
+    {{ with resources.Get "js/quote-widget.js" }}
+        <head>
+            <script type="application/javascript" src="{{ .Permalink }}"></script>
+        </head>
+    {{ end }}
+{{ end }}
