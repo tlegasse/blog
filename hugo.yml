@@ -42,7 +42,7 @@ params:
   disableSpecial1stPost: true
 services:
   googleAnalytics:
-    ID: 425714806
+    ID: G-73381DKG18
   disqus:
     shortname: tannerlegasse
 markup:
