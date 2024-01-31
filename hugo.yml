@@ -40,6 +40,11 @@ params:
     - projects
     - posts
   disableSpecial1stPost: true
+services:
+  googleAnalytics:
+    ID: 425714806
+  disqus:
+    shortname: tannerlegasse
 markup:
   goldmark:
     renderer:
