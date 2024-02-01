@@ -32,7 +32,7 @@ Now, this may sound complex, but the beauty of cellular automata is that it's su
 * A ce... wait... that's it. That's **all** of the rules.
 
 *Bonus: check out the GOL I whipped up while flying to New York. Just hit play* 😁
-<p class="codepen" data-height="600" data-default-tab="result" data-slug-hash="oeGVjb" data-user="tlegasse" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="700" data-default-tab="result" data-slug-hash="oeGVjb" data-user="tlegasse" style="height: 700px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/tlegasse/pen/oeGVjb">
   Tanner's game of life</a> by Tanner Legasse (<a href="https://codepen.io/tlegasse">@tlegasse</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
