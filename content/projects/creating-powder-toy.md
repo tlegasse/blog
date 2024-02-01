@@ -5,7 +5,7 @@ authors:
 title: Creating Powder Toy
 draft: false
 tags: ["project"]
-series: 
+series:
 cover:
   image: images/powder-toy.webp
 ---
@@ -19,7 +19,7 @@ Powder toy (also known as a falling sand game), for those not familiar, is an sa
 I remember running powder toy games back in middle school in MS-DOS, and was endlessly impressed with its smooth operation and engaging gameplay mechanics. Maybe there's even an argument to make that it's one of the quintessential games-with-no-end in the same way that Minecraft used to be. It's just a toy! A powder toy!
 
 # What is Powder Toy?
-Surprising, right? We chatted about this in the intro! Well this part ties in to the goals section below, I'm going to be building it. Powder toy, in actuality borrows the simplicity of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) (GOL) in that it's more a framework of operation than a specific piece of code, namely a cellular automata. The fundamentals of the game are very simple, and state is generally only accounted for locally, just like a petri dish of literal bacteria would function in real life, or in the case of powder toy, like the world may work if taken as a 2 dimensional cross section.
+Surprising, right? We already talked about this! Actually for the purposes of this article, let's jump into the specific mechanics of the game, but first a bit about its lineage. Powder toy actually shares a lot of similar characteristics of an older game, [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) (GOL). Both of these (and others like them) are cellular automata, cells are a determined state, and have rules that they abide by in interacting with their environment.
 
 ## A Cellular... what?
 Now, this may sound complex, but the beauty of cellular automata is that it's surprisingly simple, I promise you'll get it. This is how Life works:
@@ -47,7 +47,7 @@ If you're content with GOL, congrats, go back up and have fun. Some, however, wa
 ```javascript
 constructor(x, y) {
 	let isAlive = Math.floor(Math.random() * 2)
-	
+
 	this.x = x
 	this.y = y
 	this.alive = isAlive
