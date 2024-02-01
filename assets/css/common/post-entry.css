@@ -131,3 +131,7 @@
         min-width: 100%;
     }
 }
+
+#disqus_thread {
+    margin-top: 2.5rem;
+}
