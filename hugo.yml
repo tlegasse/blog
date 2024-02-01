@@ -40,6 +40,7 @@ params:
     - projects
     - posts
   disableSpecial1stPost: true
+  comments: true
 services:
   googleAnalytics:
     ID: G-73381DKG18
