@@ -1,5 +1,5 @@
 ---
-title: Go, Choosing a New Path
+title: Go, and Why I'm Learning It
 date: 2024-01-03T14:34:31-08:00
 draft: false
 tags: ["goal"]
