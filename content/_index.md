@@ -1,9 +1,12 @@
-# Beyond the Text Editor:<br /> A Developer's Journey of Discovery
+# Tanner Legasse: Hopeless Tinkerer
 
-Welcome to my blog, where each keystroke is more than just coding—it's a part of a larger narrative. Join me on this explorative journey through the evolving and exhilarating landscape of software engineering, a field constantly reshaped by game-changing technologies and new perspectives.
+I'm Tanner. In this blog, you'll hear about my interests, my learning journeys among several disciplines within software design and development, and a lot of fun projects.
 
-This blog is a tapestry of my experiences: from deep dives into emerging tech topics to candid recounts of navigating stack traces and mastering unit tests. It's about the highs and lows, the learning curves, and those 'aha' moments that every developer cherishes.
+Some of the things you might see include:
+- Experiments in AI.
+- Golang, Python and other server side development.
+- Shopify related tips, tricks, examples and thoughts.
+- Miscellaneous half completed projects. (not gonna lie here)
+- Lots more fun!
 
-Each project I share is a milestone, a testament to perseverance and growth. As you follow my journey, witness the evolution of my skills and perhaps find echoes of your own experiences in this ever-changing industry.
-
-Beyond the Text Editor, we're not just writing code; we're scripting chapters in the dynamic story of a developer's life. So, whether you're here to learn, explore, or simply see software engineering from a new lens, I hope you find inspiration and insight in these pages.
+I hope you enjoy your time reading my blog! [Ping me](mailto:tanner.legasse@gmail.com) (no forms needed), or follow my socials if you want to chat!
