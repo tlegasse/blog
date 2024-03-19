@@ -15,12 +15,12 @@ languages:
         - name: Search
           url: search/
           weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
+        - identifier: linkedin
+          url: "https://www.linkedin.com/in/tanner-legasse/"
+          pre: <span class="social-icon linkedin-icon"></span>
         - identifier: github
           url: "https://github.com/tlegasse"
-          pre: <span class="github-icon"></span>
+          pre: <span class="social-icon github-icon"></span>
 params:
   homeInfoParams:
   contact:
