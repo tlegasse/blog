@@ -1,4 +1,4 @@
-# Tanner Legasse: Hopeless Tinkerer
+# Tanner Legasse: Dudebro
 
 I'm Tanner. In this blog, you'll hear about my interests, my learning journeys among several disciplines within software design and development, and a lot of fun projects.
 
