@@ -1,11 +1,15 @@
 :root {
 	--highlightColor:#4255C3;
+	--highlightColorRgb:66, 85, 195;
 	--secondaryHighlightColor:#B63535;
+	--secondaryHighlightColorRgb:182, 53, 53;
 	--backgroundColor:#F1F1F1;
-	--secondaryBackgroundColor:#FFE792;
-	--fontSans:;
-	--fontMono:;
-	--fontFamilyPrimary:;
-	--fontFamilySecondary:;
+	--backgroundColorRgb:241, 241, 241;
+	--secondaryBackgroundColor:#FFF9E5;
+	--secondaryBackgroundColorRgb:255, 249, 229;
+	--fontSans: ""Open Sans", Helvetica, Arial, sans-serif";
+	--fontMono: "SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace";
+	--fontFamilyPrimary: "IBM Plex Serif";
+	--fontFamilySecondary: "IBM Plex Sans";
 }
 
