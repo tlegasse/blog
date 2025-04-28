@@ -19,22 +19,25 @@ var fuseOptions = {
 // Search
 // =============================
 
-var inputBox = document.getElementById('search-query');
-if (inputBox !== null) {
-    var searchQuery = param("q");
-    if (searchQuery) {
-        inputBox.value = searchQuery || "";
-        executeSearch(searchQuery, false);
-    } else {
-        document.getElementById('search-results').innerHTML = '<p class="search-results-empty">Please enter a word or phrase above, or see <a href="/tags/">all tags</a>.</p>';
+document.addEventListener('DOMContentLoaded', () => {
+    var inputBox = document.getElementById('search-query');
+    if (inputBox !== null) {
+        var searchQuery = param("q");
+        if (searchQuery) {
+            inputBox.value = searchQuery || "";
+            executeSearch(searchQuery, false);
+        } else {
+            document.getElementById('search-results').innerHTML = '<p class="search-results-empty">Please enter a word or phrase above, or see <a href="/tags/">all tags</a>.</p>';
+        }
     }
-}
+})
 
 function executeSearch(searchQuery) {
 
     show(document.querySelector('.search-loading'));
 
     fetch('/index.json').then(function (response) {
+        console.log(response)
         if (response.status !== 200) {
             console.log('Looks like there was a problem. Status Code: ' + response.status);
             return;
@@ -43,6 +46,7 @@ function executeSearch(searchQuery) {
         response.json().then(function (pages) {
             var fuse = new Fuse(pages, fuseOptions);
             var result = fuse.search(searchQuery);
+            console.log(result)
             if (result.length > 0) {
                 populateResults(result);
             } else {

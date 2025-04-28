@@ -3,6 +3,11 @@
 <main>
     <script type="text/javascript" src="/js/search.js" defer="defer"></script>
 
+    <form action="/search" method="GET">
+        <input type="search" name="q" id="search-query" placeholder="Search....">
+        <button type="submit">Search</button>
+    </form>
+
     <div id="search-results"></div>
     <div class="search-loading">Loading...</div>
 
