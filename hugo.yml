@@ -1,15 +1,18 @@
 baseURL: https://www.tannerlegasse.com/
 languageCode: en-us
 title: Tanner Legasse
-theme: PaperMod
+theme: mainroad
+
 languages:
   en:
     languageName: "English"
     weight: 1
+
     taxonomies:
       category: categories
       tag: tags
       series: series
+
     menu:
       main:
         - name: Search
@@ -23,40 +26,66 @@ languages:
           pre: <span class="social-icon github-icon"></span>
 params:
   homeInfoParams:
-  contact:
-    email: tanner.legasse@gmail.com
   subtitle: A learner
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   ShowBreadCrumbs: true
   ShowToc: true
+  disableSpecial1stPost: true
+  comments: true
+
+  sidebar:
+    home: "left"
+    list: "right" 
+    single: false
+    widgets: 
+      - "search"
+      - "recent"
+      - "categories"
+      - "social"
+
+  widgets:
+    recent_num: 5
+    categories_counter: false
+    tags_counter: false
+
+  contact:
+    email: tanner.legasse@gmail.com
+
   assets:
     disableHLJS: false
+
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
+
   mainSections:
     - projects
     - posts
-  disableSpecial1stPost: true
-  comments: true
+
+
 services:
   googleAnalytics:
     ID: G-73381DKG18
+
   disqus:
     shortname: tannerlegasse
+
 markup:
   goldmark:
     renderer:
       unsafe: true
+
   highlight:
     noClasses: false
+
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
+
 module:
   mounts:
     - source: content
