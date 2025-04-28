@@ -25,6 +25,9 @@ languages:
           url: "https://github.com/tlegasse"
           pre: <span class="social-icon github-icon"></span>
 params:
+  logo:
+    title: Tanner <span>Legasse</span>
+
   homeInfoParams:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
@@ -64,15 +67,20 @@ params:
     - posts
 
   googleFontsLink: "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+  googleFontsSerifLink: "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
 
   style:
     vars:
       highlightColor: "#4255C3"
+      highlightColorRgb: "66, 85, 195"
       secondaryHighlightColor: "#B63535"
+      secondaryHighlightColorRgb: "182, 53, 53"
       backgroundColor: "#F1F1F1"
-      secondaryBackgroundColor: "#FFE792"
+      backgroundColorRgb: "241, 241, 241"
+      secondaryBackgroundColor: "#FFF9E5"
+      secondaryBackgroundColorRgb: "255, 249, 229"
       fontFamilyPrimary: "IBM Plex Serif"
-
+      fontFamilySecondary: "IBM Plex Sans"
 
 services:
   googleAnalytics:
