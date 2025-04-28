@@ -1,0 +1,21 @@
+{{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#e22d30") -}}
+{{- $secondaryHighlightColor := .Site.Params.style.vars.secondaryHighlightColor | default (.Site.Params.secondaryHighlightColor | default "#e22d30") -}}
+{{- $backgroundColor := .Site.Params.style.vars.backgroundColor | default (.Site.Params.backgroundColor | default "#e22d30") -}}
+{{- $secondaryBackgroundColor := .Site.Params.style.vars.secondaryBackgroundColor | default (.Site.Params.secondaryBackgroundColor | default "#e22d30") -}}
+
+{{- $fontSans := `"Open Sans", Helvetica, Arial, sans-serif` -}}
+{{- $fontMono := `SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace` -}}
+{{- $fontFamilyPrimary := .Site.Params.style.vars.fontFamilyPrimary | default $fontSans -}}
+{{- $fontFamilySecondary := .Site.Params.style.vars.fontFamilySecondary | default $fontMono -}}
+
+:root {
+	--highlightColor: {{- $highlightColor -}};
+	--secondaryHighlightColor: {{- $secondaryHighlightColor -}};
+	--backgroundColor: {{- $backgroundColor -}};
+	--secondaryBackgroundColor: {{- $secondaryBackgroundColor -}};
+	--fontSans: {{- $fontSans := `"Open Sans", Helvetica, Arial, sans-serif` -}};
+	--fontMono: {{- $fontMono := `SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace` -}};
+	--fontFamilyPrimary: {{- $fontFamilyPrimary := .Site.Params.style.vars.fontFamilyPrimary | default $fontSans -}};
+	--fontFamilySecondary: {{- $fontFamilySecondary := .Site.Params.style.vars.fontFamilySecondary | default $fontMono -}};
+}
+

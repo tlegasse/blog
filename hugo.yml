@@ -26,7 +26,6 @@ languages:
           pre: <span class="social-icon github-icon"></span>
 params:
   homeInfoParams:
-  subtitle: A learner
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   ShowBreadCrumbs: true
@@ -63,6 +62,16 @@ params:
   mainSections:
     - projects
     - posts
+
+  googleFontsLink: "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+
+  style:
+    vars:
+      highlightColor: "#4255C3"
+      secondaryHighlightColor: "#B63535"
+      backgroundColor: "#F1F1F1"
+      secondaryBackgroundColor: "#FFE792"
+      fontFamilyPrimary: "IBM Plex Serif"
 
 
 services:
