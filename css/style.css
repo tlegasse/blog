@@ -65,7 +65,7 @@ p {
 }
 
 .container--outer {
-	margin: 25px auto;
+	margin: 0 auto;
 }
 
 .flex {
@@ -93,10 +93,10 @@ p {
 .sidebar--left {
 	-webkit-order: 0;
 	order: 0;
-	margin: 0 50px 0 0;
+	margin: 0;
 	background-color: var(--secondaryBackgroundColor);
-	border-left: 3px dashed var(--highlightColor);
-	border-right: 3px dashed var(--highlightColor);
+	border: 3px dashed rgba(var(--highlightColorRgb), 0.25);
+	border-radius: 20px;
 }
 
 .clearfix {
@@ -384,7 +384,8 @@ select {
 }
 
 .logo {
-	padding: 0 15px 25px;
+	padding: 25px 15px;
+	overflow: hidden;
 }
 
 .logo__link {
@@ -419,8 +420,8 @@ select {
     top: -36%;
     height: 0px;
     border-style: solid;
-    border-width: 0 75px 96px 41px;
-    border-color: transparent transparent var(--secondaryBackgroundColor) transparent;
+    border-width: 0 66px 107px 23px;
+    border-color: transparent transparent rgba(var(--secondaryHighlightColorRgb), 0.1) transparent;
     transform: rotate(105deg);
     position: absolute;
     z-index: 0;
@@ -508,6 +509,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	outline: 0;
 }
 
+nav.menu {
+	border-radius: 10px;
+	overflow: hidden;
+}
+
 .js .menu__btn--active {
 	color: var(--highlightColor);
 }
@@ -535,6 +541,9 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	padding: .625rem .9375rem;
 	font-weight: 700;
 	color: var(--backgroundColor);
+    font-family: var(--fontFamilySecondary);
+    text-transform: uppercase;
+    letter-spacing: -1px;
 }
 
 .menu__link:hover {
@@ -1069,13 +1078,17 @@ textarea {
 
 .widget__title {
 	position: relative;
+	font-family: var(--fontFamilySecondary);
+	text-transform: uppercase;
 	font-size: 16px;
 	font-size: 1rem;
 	background-color: var(--highlightColor);
 	border-bottom: 3px solid var(--highlightColor);
 	color: var(--backgroundColor);
 	padding: 10px 15px;
-	margin-bottom: 0;
+    border-radius: 10px 10px 0 0;
+    margin: 20px 0 0 0;
+	letter-spacing: -1px;
 }
 
 .widget__item {
@@ -1214,7 +1227,14 @@ textarea {
 }
 
 .wrapper .primary {
-	padding: 10px 0;
+	padding: 0;
+}
+
+.wrapper {
+	padding: 25px 0;
+	display: flex;
+	flex-direction: row;
+	gap: 25px;
 }
 
 /* Media Queries */
@@ -1275,7 +1295,7 @@ textarea {
 
 	.logo__title {
 		font-size: 24px;
-		font-size: 1.5rem;
+		font-size: 42px;
 	}
 
 	.sidebar {
