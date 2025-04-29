@@ -11,6 +11,7 @@
 {{- $fontMono := `SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace` -}}
 {{- $fontFamilyPrimary := .Site.Params.style.vars.fontFamilyPrimary | default $fontSans -}}
 {{- $fontFamilySecondary := .Site.Params.style.vars.fontFamilySecondary | default $fontMono -}}
+{{- $fontFamilyMono := .Site.Params.style.vars.fontFamilyMono | default $fontMono -}}
 
 
 :root {
@@ -26,5 +27,6 @@
 	--fontMono: "{{- $fontMono -}}";
 	--fontFamilyPrimary: "{{- $fontFamilyPrimary -}}";
 	--fontFamilySecondary: "{{- $fontFamilySecondary -}}";
+	--fontFamilyMono: "{{- $fontFamilyMono -}}";
 }
 

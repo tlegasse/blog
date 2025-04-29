@@ -16,7 +16,7 @@ languages:
     menu:
       main:
         - name: Search
-          url: search/
+          url: /search/
           weight: 10
         - identifier: linkedin
           url: "https://www.linkedin.com/in/tanner-legasse/"
@@ -38,7 +38,7 @@ params:
 
   sidebar:
     home: "left"
-    list: "right" 
+    list: "left" 
     single: false
     widgets: 
       - "search"
@@ -68,6 +68,7 @@ params:
 
   googleFontsLink: "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
   googleFontsSerifLink: "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+  googleFontsMonoLink: "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
 
   style:
     vars:
@@ -81,6 +82,7 @@ params:
       secondaryBackgroundColorRgb: "255, 249, 229"
       fontFamilyPrimary: "IBM Plex Serif"
       fontFamilySecondary: "IBM Plex Sans"
+      fontFamilyMono: "IBM Plex Mono"
 
 services:
   googleAnalytics:
