@@ -1,11 +1,11 @@
 <article class="list__item post">
 	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
 	<header class="list__header">
-		<h2 class="list__title post__title">
+		<h3 class="list__title post__title">
 			<a href="{{ .RelPermalink }}" rel="bookmark">
 			{{ .Title }}
 			</a>
-		</h2>
+		</h3>
 		{{- with .Params.lead }}
 		<p class="list__lead post__lead">{{ . }}</p>
 		{{- end }}
@@ -17,12 +17,14 @@
 		<p>{{ T "post_date" }} {{ .Date.Format "Jan 2, 2006" }}</p>
 	</div>
 	<div class="content list__excerpt post__content clearfix">
+		<p>
 		{{ with .Description }}
-		  {{ $.Scratch.Set "summary" (markdownify .) }}
+			{{ $.Scratch.Set "summary" (markdownify .) }}
 		{{ else }}
-		  {{ $.Scratch.Set "summary" ((delimit (findRE "(?s)(<p.*?>.*?</p>)" .Content) "[&hellip;] ") | plainify | truncate (default 200 $.Site.Params.summary_length) (default " &hellip;" $.Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
+			{{ $.Scratch.Set "summary" ((delimit (findRE "(?s)(<p.*?>.*?</p>)" .Content) "[&hellip;] ") | plainify | truncate (default 200 $.Site.Params.summary_length) (default " &hellip;" $.Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
 		{{ end }}
 		{{ $.Scratch.Get "summary" }}
+		</p> 
 	</div>
 	{{- if .Truncated }}
 	<div class="list__footer clearfix">

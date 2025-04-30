@@ -1,4 +1,8 @@
 # General
+
+- id: recent_posts
+  translation: "📰 My Recent Posts"
+
 - id: post_date
   translation: "Post Date:"
 
