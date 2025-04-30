@@ -1,12 +1,9 @@
-# Tanner Legasse: Dudebro
+# Welcome!
 
-I'm Tanner. In this blog, you'll hear about my interests, my learning journeys among several disciplines within software design and development, and a lot of fun projects.
+I'm Tanner, a technical lead for MiiR, and sometimes freelance developer. I've worked across tech stacks, and for clients of various industries, large and small, but these days I spend most of my time establishing and advancing companies' presence on the web with Shopify technologies.
 
-Some of the things you might see include:
-- Experiments in AI.
-- Golang, Python and other server side development.
-- Shopify related tips, tricks, examples and thoughts.
-- Miscellaneous half completed projects. (not gonna lie here)
-- Lots more fun!
+I used to work a lot with WordPress, and did a ton of client work with PHP frameworks, but I found out that Shopify makes me really happy. It's not the only thing though. I love Linux systems, and challenging myself to simplify my workflows and work more directly with the system. You'll see some of that here.
 
-I hope you enjoy your time reading my blog! [Ping me](mailto:tanner.legasse@gmail.com) (no forms needed), or follow my socials if you want to chat!
+I'm excited to share all about what I'm learning and working on. If you've ever felt overwhelmed by how incredibly smart, well informed and unbelievably some people are online... don't worry so much, you probably won't get that feeling here, I don't take myself so seriously 😁
+
+If you want to get in touch, [send me an email](mailto:tanner.legasse@gmail.com) or add a comment on any of my posts!
