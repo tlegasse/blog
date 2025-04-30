@@ -1,0 +1,32 @@
+<article class="list__item post">
+	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="{{ .RelPermalink }}" rel="bookmark">
+			{{ .Title }}
+			</a>
+		</h2>
+		{{- with .Params.lead }}
+		<p class="list__lead post__lead">{{ . }}</p>
+		{{- end }}
+		{{ with partial "post_meta.html" . -}}
+		<div class="list__meta meta">{{ . }}</div>
+		{{- end }}
+	</header>
+	<div class="content post__meta">
+		<p>{{ T "post_date" }} {{ .Date.Format "Jan 2, 2006" }}</p>
+	</div>
+	<div class="content list__excerpt post__content clearfix">
+		{{ with .Description }}
+		  {{ $.Scratch.Set "summary" (markdownify .) }}
+		{{ else }}
+		  {{ $.Scratch.Set "summary" ((delimit (findRE "(?s)(<p.*?>.*?</p>)" .Content) "[&hellip;] ") | plainify | truncate (default 200 $.Site.Params.summary_length) (default " &hellip;" $.Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
+		{{ end }}
+		{{ $.Scratch.Get "summary" }}
+	</div>
+	{{- if .Truncated }}
+	<div class="list__footer clearfix">
+		<a class="list__footer-readmore btn" href="{{ .RelPermalink }}">{{ T "read_more" }}</a>
+	</div>
+	{{- end }}
+</article>
