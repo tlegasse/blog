@@ -198,8 +198,8 @@ h6 {
 }
 
 a {
-	color: #000;
-	text-decoration: none;
+	color: var(--highlightColor);
+	text-decoration: underline;
 }
 
 a:hover {
