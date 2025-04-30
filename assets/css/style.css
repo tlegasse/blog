@@ -292,6 +292,8 @@ pre {
     margin-bottom: 1.25rem;
     overflow: auto;
     color: #000;
+    background-color: var(--secondaryBackgroundColor);
+    border: var(--dashedBorder);
 }
 
 pre code {
@@ -300,8 +302,6 @@ pre code {
     white-space: inherit;
     background: inherit;
     border: 0;
-    background-color: var(--secondaryBackgroundColor);
-    border: var(--dashedBorder);
 }
 
 kbd {
@@ -1334,7 +1334,7 @@ nav.menu .menu__btn.menu__btn--active {
     background-color: var(--highlightColor);
     color: var(--backgroundColor);
     border-radius: 10px;
-
+    margin-top: 50px;
 }
 
 /* Media Queries */
