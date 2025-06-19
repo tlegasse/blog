@@ -1,2 +1,126 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tanner Legasse</title><link>https://www.tannerlegasse.com/</link><description>Recent content on Tanner Legasse</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tannerlegasse.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Go URL Shortener</title><link>https://www.tannerlegasse.com/projects/go-url-shortener/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/projects/go-url-shortener/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tanner Legasse</title><link>https://www.tannerlegasse.com/</link><description>Recent content on Tanner Legasse</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 18 Jun 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://www.tannerlegasse.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Grep usage patterns</title><link>https://www.tannerlegasse.com/posts/grep-usage-patterns/</link><pubDate>Wed, 18 Jun 2025 00:00:00 -0700</pubDate><guid>https://www.tannerlegasse.com/posts/grep-usage-patterns/</guid><description>&lt;h1 id="grep-usage-patterns-mastering-text-processing-for-backend-development">Grep Usage Patterns: Mastering Text Processing for Backend Development&lt;/h1>
+&lt;h2 id="core-pattern-categories">Core Pattern Categories&lt;/h2>
+&lt;h3 id="basic-pattern-matching">Basic Pattern Matching&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Literal string searches&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Case sensitivity controls&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Word boundary matching&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Line-based vs character-based matching&lt;/li>
+&lt;/ul>
+&lt;h3 id="regular-expression-fundamentals">Regular Expression Fundamentals&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Character classes and ranges&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Quantifiers and repetition&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Anchoring patterns&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Grouping and capturing&lt;/li>
+&lt;/ul>
+&lt;h3 id="advanced-regex-constructs">Advanced Regex Constructs&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Lookahead and lookbehind assertions&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Non-greedy matching&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Backreferences&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> POSIX vs PCRE compatibility&lt;/li>
+&lt;/ul>
+&lt;h2 id="file-and-directory-operations">File and Directory Operations&lt;/h2>
+&lt;h3 id="single-file-processing">Single File Processing&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Standard input handling&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Output formatting options&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Context line control&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Binary file handling&lt;/li>
+&lt;/ul>
+&lt;h3 id="multi-file-and-recursive-operations">Multi-file and Recursive Operations&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Directory traversal patterns&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> File type filtering&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Exclude patterns and &lt;code>.gitignore&lt;/code> integration&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Symbolic link handling&lt;/li>
+&lt;/ul>
+&lt;h2 id="shell-script-integration">Shell Script Integration&lt;/h2>
+&lt;h3 id="command-substitution-patterns">Command Substitution Patterns&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Exit code handling and error detection&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Output capture and processing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Pipeline integration strategies&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Variable assignment from grep results&lt;/li>
+&lt;/ul>
+&lt;h3 id="control-flow-integration">Control Flow Integration&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Conditional execution based on matches&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Loop constructs with grep&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Error handling and validation&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Silent mode applications&lt;/li>
+&lt;/ul>
+&lt;h3 id="performance-optimization">Performance Optimization&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Early termination strategies&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Memory usage considerations&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Fixed string vs regex performance&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Parallel processing with &lt;code>xargs&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="production-environment-considerations">Production Environment Considerations&lt;/h2>
+&lt;h3 id="log-analysis-patterns">Log Analysis Patterns&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Structured log parsing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Time-based filtering&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Multi-line log entry handling&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Performance monitoring integration&lt;/li>
+&lt;/ul>
+&lt;h3 id="system-administration-integration">System Administration Integration&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Process monitoring patterns&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Configuration file validation&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Deployment script integration&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Monitoring and alerting applications&lt;/li>
+&lt;/ul>
+&lt;h3 id="security-and-compliance">Security and Compliance&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Sensitive data detection patterns&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Audit log processing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Pattern sanitization&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Access control considerations&lt;/li>
+&lt;/ul>
+&lt;h2 id="debugging-and-troubleshooting">Debugging and Troubleshooting&lt;/h2>
+&lt;h3 id="pattern-development-workflow">Pattern Development Workflow&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Incremental pattern building&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Test data preparation&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Validation strategies&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Documentation practices&lt;/li>
+&lt;/ul>
+&lt;h3 id="common-pitfalls-and-solutions">Common Pitfalls and Solutions&lt;/h3>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Escaping and quoting issues&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Locale and encoding considerations&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Performance bottlenecks&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> False positive/negative handling&lt;/li>
+&lt;/ul>
+&lt;h2 id="additional-learning">Additional Learning&lt;/h2>
+&lt;h3 id="related-gnu-coreutils-proficiency">Related GNU Coreutils Proficiency&lt;/h3>
+&lt;ul>
+&lt;li>&lt;code>awk&lt;/code> for complex field processing&lt;/li>
+&lt;li>&lt;code>sed&lt;/code> for stream editing and transformation&lt;/li>
+&lt;li>&lt;code>sort&lt;/code> and &lt;code>uniq&lt;/code> for data deduplication&lt;/li>
+&lt;li>&lt;code>cut&lt;/code> and &lt;code>paste&lt;/code> for column manipulation&lt;/li>
+&lt;/ul>
+&lt;h3 id="version-control-integration">Version Control Integration&lt;/h3>
+&lt;ul>
+&lt;li>Git hooks and pre-commit pattern validation&lt;/li>
+&lt;li>Repository health monitoring&lt;/li>
+&lt;li>Code quality enforcement patterns&lt;/li>
+&lt;/ul>
+&lt;h3 id="database-and-api-integration">Database and API Integration&lt;/h3>
+&lt;ul>
+&lt;li>Log correlation with database queries&lt;/li>
+&lt;li>API response pattern matching&lt;/li>
+&lt;li>Data pipeline validation&lt;/li>
+&lt;li>ETL process monitoring&lt;/li>
+&lt;/ul>
+&lt;h3 id="systems-programming-foundations">Systems Programming Foundations&lt;/h3>
+&lt;ul>
+&lt;li>POSIX compliance considerations&lt;/li>
+&lt;li>Signal handling in long-running grep processes&lt;/li>
+&lt;li>File descriptor management&lt;/li>
+&lt;li>Process substitution patterns&lt;/li>
+&lt;/ul></description></item><item><title>Go URL Shortener</title><link>https://www.tannerlegasse.com/projects/go-url-shortener/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/projects/go-url-shortener/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
 &lt;p>It&amp;rsquo;s 3AM. You need a URL shortener fast. Your boss is breathing down your neck and you have no idea what to do. My new URL shortener is &lt;em>exactly&lt;/em> what you need. Okay, kidding aside, this thing isn&amp;rsquo;t geared toward production environments with high throughput or anything like that. Instead, the goal was to showcase skills that I&amp;rsquo;ve picked up over the past several months in my learning journey with Go. It&amp;rsquo;s been really fun, and this project fit the bill of &amp;ldquo;complex enough to be interesting, not so complex that you program yourself into a hole&amp;rdquo;. The latter will come shortly, but for now I&amp;rsquo;m really pleased with how everything&amp;rsquo;s come out.&lt;/p></description></item><item><title>Archive</title><link>https://www.tannerlegasse.com/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/archives/</guid><description>archives</description></item></channel></rss>
