@@ -1,0 +1,10 @@
+canvas {
+    height: 200px;
+    width: 300px;
+}
+
+p.code {
+    font-family: monospace;
+    overflow-x: auto;
+    white-space: pre;
+}
