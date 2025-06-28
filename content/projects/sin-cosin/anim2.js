@@ -10,11 +10,11 @@
 
     const timeCoefficient = 600
 
-    ctx.fillStyle = "#ffffff"
+    ctx.fillStyle = "#f1f1f1"
     ctx.fillRect(0, 0, canvasDims.width, canvasDims.height)
 
     const getFrame = (timestamp) => {
-        ctx.fillStyle = "#ffffff29"
+        ctx.fillStyle = "#f1f1f129"
         ctx.fillRect(0, 0, canvasDims.width, canvasDims.height)
 
         const rad = 50
