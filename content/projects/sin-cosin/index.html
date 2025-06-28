@@ -1,0 +1,49 @@
+---
+title: Sin and Cosin
+draft: false
+date: 2025-06-28
+tags: ["graphics"]
+authors:
+- Tanner Legasse
+series: Demoscene learning
+categories: Just for fun
+---
+<p>Sin and cosin express the phase of a sin wave either in forward or backwards direction respectively.</p>
+<p>As such, sin and cosin produce a number between -1 and 1 given an input angle.</p>
+<p>They're used heavily across animations to produce repeating angular values:</p>
+<pre class="code">
+    const pX = Math.cos(timestamp / timeCoefficient) * rad
+    const pY = Math.sin(timestamp / timeCoefficient) * rad
+</pre>
+<canvas id="c1"></canvas>
+
+<br>
+<br>
+<hr>
+
+<p>Combinations therein can create cool affects, such as this one where the output "particle" follows in a radial
+    fashion around a point on our circle.</p>
+<p>In the example here, the naked point on our circle is represented by the blue dot.</p>
+<p>Our particle is represented by the orange dot, which is added as an offset to the blue dot's coordinates. Note
+    that it's circling the blue dot 8 times per rotation of the larger circle at half the larger circle's radius.
+</p>
+<pre class="code">
+    const particlePX = Math.cos(timestamp / timeCoefficient * 8) * (rad / 2)
+    const particlePY = Math.sin(timestamp / timeCoefficient * 8) * (rad / 2)
+</pre>
+<canvas id="c2"></canvas>
+
+<br>
+<br>
+<hr>
+
+<p>When combined with text, sin can easily create a bouncing letter effect:</p>
+<canvas id="c3"></canvas>
+
+<p>And with some color and size function?!</p>
+<canvas id="c4"></canvas>
+
+<script type="text/javascript" src="./anim1.js"></script>
+<script type="text/javascript" src="./anim2.js"></script>
+<script type="text/javascript" src="./anim3.js"></script>
+<script type="text/javascript" src="./anim4.js"></script>
