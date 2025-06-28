@@ -12,11 +12,11 @@
 
     const timeCoefficient = 400
 
-    ctx.fillStyle = "#ffffff"
+    ctx.fillStyle = "#f1f1f1"
     ctx.fillRect(0, 0, canvasDims.width, canvasDims.height)
 
     const getFrame = (timestamp) => {
-        ctx.fillStyle = "#ffffff"
+        ctx.fillStyle = "#f1f1f1"
         ctx.fillRect(0, 0, canvasDims.width, canvasDims.height)
 
 
