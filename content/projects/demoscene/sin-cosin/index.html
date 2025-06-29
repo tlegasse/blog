@@ -1,5 +1,5 @@
 ---
-title: Sin and Cosin
+title: Sine and Cosine
 draft: false
 date: 2025-06-28
 tags: ["graphics"]
@@ -32,14 +32,16 @@ categories: Just for fun
 <h2>Enough talk</h2>
 <p>A sinusoidal (sin) wave is what you get plot the 360° circumference of a circle as distance from the resting
     plane over time.</p>
-<p>Sin and cosin functions relate to the expression of the phase of a sin wave either in forward or backwards direction
+<p>Sine and cosine functions relate to the expression of the phase of a sine wave either in forward or backwards
+    direction
     respectively.</p>
-<p>As such, sin and cosin functions (as we enjoy them from math libraries) produce a number between -1 and 1 given an
+<p>As such, sine and cosine functions (as we enjoy them from math libraries) produce a number between -1 and 1 given an
     input angle.</p>
-<p>They're used heavily across animations to produce repeating angular values. Take this example of a ball following the circumference of a circle:</p>
+<p>They're used heavily across animations to produce repeating angular values. Take this example of a ball following the
+    circumference of a circle:</p>
 <pre class="code">
-const pX = Math.cos(timestamp / timeCoefficient) * rad
-const pY = Math.sin(timestamp / timeCoefficient) * rad
+    const pX = Math.cos(timestamp / timeCoefficient) * rad
+    const pY = Math.sin(timestamp / timeCoefficient) * rad
 </pre>
 <canvas id="c1"></canvas>
 
@@ -47,15 +49,16 @@ const pY = Math.sin(timestamp / timeCoefficient) * rad
 <br>
 <hr>
 
-<p>Combinations of different mathematical functions can create cool affects, such as this one where the output "particle" follows in a radial
+<p>Combinations of different mathematical functions can create cool effects, such as this one where the output
+    "particle" follows in a radial
     fashion around an orbiting point on our circle.</p>
 <p>In the example here, the orbit on our primary circle is represented by the blue dot.</p>
 <p>Our satellite is represented by the orange dot, which is added as an offset to the blue dot's coordinates. Note
     that it's circling the blue dot 8 times per rotation of the larger circle at half the larger circle's radius.
 </p>
 <pre class="code">
-const particlePX = Math.cos(timestamp / timeCoefficient * 8) * (rad / 2)
-const particlePY = Math.sin(timestamp / timeCoefficient * 8) * (rad / 2)
+    const particlePX = Math.cos(timestamp / timeCoefficient * 8) * (rad / 2)
+    const particlePY = Math.sin(timestamp / timeCoefficient * 8) * (rad / 2)
 </pre>
 <canvas id="c2"></canvas>
 
@@ -63,16 +66,17 @@ const particlePY = Math.sin(timestamp / timeCoefficient * 8) * (rad / 2)
 <br>
 <hr>
 
-<p>When combined with text, sin can easily create a bouncing letter effect:</p>
+<p>When combined with text, sine can easily create a bouncing letter effect:</p>
 <pre>
     const vOffset = Math.sin((timestamp + (key * 360)) / timeCoefficient) * 25
 </pre>
 <canvas id="c3"></canvas>
 
 <p>And with some color and size function?! It's actually a lot simpler than it appears. We're spoiled with easy HSL
-    color functions that weren't present in the C64 days with which we can leverage browser native radial color calculation features.</p>
+    color functions that weren't present in the C64 days with which we can leverage browser native radial color
+    calculation features.</p>
 <pre>
-for (const key in inputStr) {
+    for (const key in inputStr) {
     const vOffset = Math.sin((timestamp + (key * 360)) / timeCoefficient) * 36
 
     ctx.font = `${32 + Math.cos((timestamp + (key * 360)) / timeCoefficient) * 16}px monospace`;
@@ -80,13 +84,14 @@ for (const key in inputStr) {
     ctx.strokeStyle = ctx.fillStyle
     ctx.lineWidth = '8px'
     ctx.fillText(inputStr[key], key * 25 + 15, (canvasDims.height / 2) + vOffset);
-}
+    }
 </pre>
 <canvas id="c4"></canvas>
 
 
 <h2>Thanks!</h2>
-<p>That's it for sin and cosin. I'll be doing more of a deep dive no doubt in using these in more advanced ways, so please do join me next time :)</p>
+<p>That's it for sine and cosine. I'll be doing more of a deep dive no doubt in using these in more advanced ways, so
+    please do join me next time :)</p>
 
 
 <script type="text/javascript" src="./anim1.js"></script>
