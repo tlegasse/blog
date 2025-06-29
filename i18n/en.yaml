@@ -71,7 +71,7 @@
 # Footer
 - id: footer_credits
   translation:
-    "the guy with the plan and whatnot."
+    "- Web developer, Shopify expert, friend."
 
 # 404
 - id: 404_title
