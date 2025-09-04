@@ -12,8 +12,8 @@ If you want to get in touch, [send me an email](mailto:tanner.legasse@gmail.com)
 
 
 
-                 Kilroy 
-          ...   was here!
-         𜰵🯥 🯥𜰶
+               kilroy 
+          ...    was
+         𜰵🯥 🯥𜰶     here
 ------ooO-| |-Ooo-------
           ╰ ╯
