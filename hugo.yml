@@ -52,7 +52,7 @@ params:
     tags_counter: false
 
   contact:
-    email: tanner.legasse@gmail.com
+    email: tanner@legasse.dev
 
   assets:
     disableHLJS: false
