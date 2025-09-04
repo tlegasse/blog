@@ -649,16 +649,14 @@ button:not(:-moz-focusring):focus>.menu__btn-title {
 .main__content {
     margin-bottom: 20px;
     margin-bottom: 1.25rem;
-}
-
-#welcome ~ p {
-    font-family: var(--fontFamilyMono);
+    background-color: none;
 }
 
 #welcome ~ pre {
     border: none;
     padding: 0;
     margin: 0;
+    background-color: transparent;
 }
 
 .meta {
@@ -1331,7 +1329,6 @@ nav.menu .menu__btn.menu__btn--active {
 
 .content.main__content {
     padding: 15px;
-    background-color: var(--secondaryBackgroundColor);
     border-radius: 10px;
 }
 

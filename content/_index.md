@@ -10,7 +10,8 @@ If you want to get in touch, [send me an email](mailto:tanner.legasse@gmail.com)
 
 ```
           ...
-         (o o)
-------ooO-(_)-Ooo-------
-    Kilroy was here
+         𜰵🯥 🯥𜰶
+------ooO-| |-Ooo-------
+          ╰ ╯
+    Kilroy was here!
 ```
