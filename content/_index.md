@@ -9,9 +9,11 @@ I'm excited to share all about what I'm learning and working on. If you've ever 
 If you want to get in touch, [send me an email](mailto:tanner.legasse@gmail.com) or add a comment on any of my posts!
 
 ```
-          ...
+
+
+
+                 Kilroy 
+          ...   was here!
          𜰵🯥 🯥𜰶
 ------ooO-| |-Ooo-------
           ╰ ╯
-    Kilroy was here!
-```
