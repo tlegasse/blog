@@ -651,6 +651,16 @@ button:not(:-moz-focusring):focus>.menu__btn-title {
     margin-bottom: 1.25rem;
 }
 
+#welcome ~ p {
+    font-family: var(--fontFamilyMono);
+}
+
+#welcome ~ pre {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
 .meta {
     font-size: 13px;
     font-size: .8125rem;
@@ -1323,7 +1333,6 @@ nav.menu .menu__btn.menu__btn--active {
     padding: 15px;
     background-color: var(--secondaryBackgroundColor);
     border-radius: 10px;
-    border: var(--dashedBorder);
 }
 
 .recent-post-heading {
