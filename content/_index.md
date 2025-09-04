@@ -7,3 +7,10 @@ I used to work a lot with WordPress, and did a ton of client work with PHP frame
 I'm excited to share all about what I'm learning and working on. If you've ever felt overwhelmed by how incredibly handsome, well-informed and unbelievably infallible some people are on the internet... don't worry so much, you probably won't get that feeling here, I don't take myself so seriously 😁
 
 If you want to get in touch, [send me an email](mailto:tanner.legasse@gmail.com) or add a comment on any of my posts!
+
+```
+          ...
+         (o o)
+------ooO-(_)-Ooo-------
+    Kilroy was here
+```
