@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Porcelier Basket Weave
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1930s"
+toaster-years: "1930"
+toaster-brands: "Porcelier"
+toaster-styles: "Popup"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./porcelier-basket-weave-set-1.jpg" caption="placeholder" >}}

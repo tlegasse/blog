@@ -2,7 +2,7 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Coleman Model 1
 draft: false
 tags: ["toasters"]
 toaster-decade: ""

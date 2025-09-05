@@ -12,7 +12,7 @@ languages:
       category: categories
       tag: tags
       series: series
-      decade: toaster-decades
+      decade: toaster-decade
       brand: toaster-brands
       style: toaster-styles
 
@@ -47,7 +47,7 @@ params:
       - "search"
       - "recent"
       - "categories"
-      - "social"
+      - "toaster-decades"
 
   widgets:
     recent_num: 5

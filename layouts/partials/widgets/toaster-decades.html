@@ -1,0 +1,20 @@
+{{- $toaster_decades := index .Site.Taxonomies "toaster-decade" }}
+{{- if gt (len $toaster_decades) 0 }}
+<div class="widget-toaster-decades widget">
+	<h4 class="widget__title">My toasters by decade</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+		{{- range $name, $taxonomy := $toaster_decades }}
+			{{- with $.Site.GetPage (printf "/toaster-decade/%s" $name) }}
+			<li class="widget__item">
+				<a class="widget__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+				{{- if index .Site.Params.widgets "toaster-decades_counter" }}&nbsp;
+				<span class="widget__counter widget__counter--bubble">{{ $taxonomy.Count }}</span>
+				{{ end -}}
+			</li>
+			{{- end }}
+		{{- end }}
+		</ul>
+	</div>
+</div>
+{{- end }}

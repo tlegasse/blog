@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Toastess 202
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1940s"
+toaster-years: "1940"
+toaster-brands: "Toastess"
+toaster-styles: "Flapper"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toastess-202-1.jpg" caption="placeholder" >}}
