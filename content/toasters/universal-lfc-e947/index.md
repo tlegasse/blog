@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Universal E947
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1910s"
+toaster-years: "1910"
+toaster-brands: "Universal Landers Frary and Clark"
+toaster-styles: "Flip out"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./universal-lfc-e947-1.jpg" caption="placeholder" >}}

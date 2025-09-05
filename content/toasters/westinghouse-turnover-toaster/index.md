@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Westinghouse Turnover Toaster
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1910s"
+toaster-years: "1914"
+toaster-brands: "Westinghouse"
+toaster-styles: "Flapper"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./westinghouse-turnover-toaster-1.jpg" caption="placeholder" >}}

@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Hotpoint 115T17
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1920s"
+toaster-years: "1920"
+toaster-brands: "Hotpoint"
+toaster-styles: "Flapper"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./hotpoint-115t17-1.jpg" caption="placeholder" >}}

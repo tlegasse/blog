@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: GE D-12
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1900s"
+toaster-years: "1909"
+toaster-brands: "General Electric"
+toaster-styles: "Percher"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./ge-d12-1.jpg" caption="placeholder" >}}

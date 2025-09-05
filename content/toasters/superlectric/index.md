@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Superlectric
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1930s"
+toaster-years: "1930"
+toaster-brands: "Superlectric"
+toaster-styles: "Popup"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./superlectric-1.jpg" caption="placeholder" >}}

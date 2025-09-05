@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Toastemaster 1a1
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1920s"
+toaster-years: "1926"
+toaster-brands: "Toastmaster"
+toaster-styles: "Popup"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toastmaster-1a1-1.jpg" caption="placeholder" >}}
