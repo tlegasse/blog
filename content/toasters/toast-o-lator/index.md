@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Toast-o-lator
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1930s"
+toaster-years: "1930"
+toaster-brands: "Toast-o-lator"
+toaster-styles: "Conveyor"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toast-o-lator-1.jpg" caption="placeholder" >}}
