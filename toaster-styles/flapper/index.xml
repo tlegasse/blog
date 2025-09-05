@@ -1,84 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flapper on Tanner Legasse</title><link>https://www.tannerlegasse.com/toaster-styles/flapper/</link><description>Recent content in Flapper on Tanner Legasse</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tannerlegasse.com/toaster-styles/flapper/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.tannerlegasse.com/toasters/steelcraft-teaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/steelcraft-teaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-1_hu_e6cb2f2a0d726af5.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-2_hu_97c2ec7b3a3ee24c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-3_hu_71c00e306f54ae60.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-4_hu_36c1c4663177401b.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-5_hu_3f9a0249895716b9.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title>Hotpoint 115T17</title><link>https://www.tannerlegasse.com/toasters/hotpoint-115t17/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-115t17/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flapper on Tanner Legasse</title><link>https://www.tannerlegasse.com/toaster-styles/flapper/</link><description>Recent content in Flapper on Tanner Legasse</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tannerlegasse.com/toaster-styles/flapper/index.xml" rel="self" type="application/rss+xml"/><item><title>Hotpoint 115T17</title><link>https://www.tannerlegasse.com/toasters/hotpoint-115t17/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-115t17/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -269,6 +189,86 @@
  &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4.jpg" 
  target="_blank"&gt;
  &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4_hu_643d9305e339688b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Steelcraft</title><link>https://www.tannerlegasse.com/toasters/steelcraft-teaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/steelcraft-teaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-1_hu_e6cb2f2a0d726af5.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-2_hu_97c2ec7b3a3ee24c.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-3_hu_71c00e306f54ae60.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-4_hu_36c1c4663177401b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-5_hu_3f9a0249895716b9.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
