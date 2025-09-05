@@ -6,5 +6,109 @@
  especially when your average, basic node project contains thousands of packages. Yes, I'm a hater, but there's
  something special there.&lt;br&gt; Join me as I explore the core concepts of demoscene development from the context of a
  modern developer interested in learning what it means to get back to basics and develop such incredible works.&lt;/p&gt;</description></item><item><title>Manual Shopify App Authentication</title><link>https://www.tannerlegasse.com/posts/manual-shopify-app-authentication/</link><pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/posts/manual-shopify-app-authentication/</guid><description>&lt;p&gt;Welcome! This is the first of many blog posts covering Shopify application development that will be published here. You&amp;rsquo;ll follow me through the project agnostic portions of app build I&amp;rsquo;m working through. You&amp;rsquo;ll see a production ready app from concept and setup to go-live.&lt;/p&gt;
-&lt;p&gt;If you follow along with this series, you&amp;rsquo;ll see various components take shape, code examples, and a general rundown of why I&amp;rsquo;m making architectural decisions. Here&amp;rsquo;s something I probably don&amp;rsquo;t need to tell you; &lt;strong&gt;I&amp;rsquo;m not perfect. I also don&amp;rsquo;t pretend to be!&lt;/strong&gt; So don&amp;rsquo;t expect brilliant code that stands up against every possible use case and every setting. Expect working code that serves as a foundation for fun experiments, &lt;em&gt;lots&lt;/em&gt; of learning, and real, working apps. In a lot of cases, I&amp;rsquo;ll be encountering problems and matching them to solutions for the first time ever!&lt;/p&gt;</description></item><item><title>Go URL Shortener</title><link>https://www.tannerlegasse.com/projects/go-url-shortener/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/projects/go-url-shortener/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;If you follow along with this series, you&amp;rsquo;ll see various components take shape, code examples, and a general rundown of why I&amp;rsquo;m making architectural decisions. Here&amp;rsquo;s something I probably don&amp;rsquo;t need to tell you; &lt;strong&gt;I&amp;rsquo;m not perfect. I also don&amp;rsquo;t pretend to be!&lt;/strong&gt; So don&amp;rsquo;t expect brilliant code that stands up against every possible use case and every setting. Expect working code that serves as a foundation for fun experiments, &lt;em&gt;lots&lt;/em&gt; of learning, and real, working apps. In a lot of cases, I&amp;rsquo;ll be encountering problems and matching them to solutions for the first time ever!&lt;/p&gt;</description></item><item><title>Bar-b-q Marhsmallow Toaster</title><link>https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183051_767.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183051_767_hu_f14eca830904d42a.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183056_176.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183056_176_hu_347e37b1df918dee.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183056_442.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183056_442_hu_b308f35efb159f21.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183101_084.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183101_084_hu_adc92dc954297265.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183105_976.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183105_976_hu_b3792083f134254f.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183110_568.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183110_568_hu_796f659d08267044.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183116_340.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183116_340_hu_46018da5f82190af.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Go URL Shortener</title><link>https://www.tannerlegasse.com/projects/go-url-shortener/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/projects/go-url-shortener/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;It&amp;rsquo;s 3AM. You need a URL shortener fast. Your boss is breathing down your neck and you have no idea what to do. My new URL shortener is &lt;em&gt;exactly&lt;/em&gt; what you need. Okay, kidding aside, this thing isn&amp;rsquo;t geared toward production environments with high throughput or anything like that. Instead, the goal was to showcase skills that I&amp;rsquo;ve picked up over the past several months in my learning journey with Go. It&amp;rsquo;s been really fun, and this project fit the bill of &amp;ldquo;complex enough to be interesting, not so complex that you program yourself into a hole&amp;rdquo;. The latter will come shortly, but for now I&amp;rsquo;m really pleased with how everything&amp;rsquo;s come out.&lt;/p&gt;</description></item><item><title>Archive</title><link>https://www.tannerlegasse.com/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/archives/</guid><description>archives</description></item></channel></rss>

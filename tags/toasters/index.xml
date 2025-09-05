@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toasters on Tanner Legasse</title><link>https://www.tannerlegasse.com/tags/toasters/</link><description>Recent content in Toasters on Tanner Legasse</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tannerlegasse.com/tags/toasters/index.xml" rel="self" type="application/rss+xml"/><item><title>Bar-b-q Marhsmallow Toaster</title><link>https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183051_767.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183051_767_hu_f14eca830904d42a.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183056_176.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183056_176_hu_347e37b1df918dee.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183056_442.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183056_442_hu_b308f35efb159f21.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183101_084.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183101_084_hu_adc92dc954297265.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183105_976.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183105_976_hu_b3792083f134254f.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183110_568.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183110_568_hu_796f659d08267044.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183116_340.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/IMG_20250904_183116_340_hu_46018da5f82190af.jpg" alt="test" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item></channel></rss>
