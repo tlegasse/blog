@@ -14,6 +14,6 @@ If you want to get in touch, [send me an email](mailto:tanner@legasse.dev) or ad
 
                kilroy 
           ...    was
-         𜰵🯥 🯥𜰶     here
+         (0 0)     here
 ------ooO-| |-Ooo-------
           ╰ ╯
