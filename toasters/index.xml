@@ -126,850 +126,6 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1_hu_f14eca830904d42a.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2_hu_347e37b1df918dee.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-3_hu_b308f35efb159f21.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4_hu_adc92dc954297265.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-5_hu_b3792083f134254f.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6_hu_796f659d08267044.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7_hu_46018da5f82190af.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/coleman-model-1/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/coleman-model-1/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-1_hu_f175afe6dd40fcb0.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-2_hu_ce4afbde0c698c3.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-3_hu_3ecf152fc0464061.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-4_hu_8d65b6da08aea926.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/ge-d12/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/ge-d12/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-1_hu_70154597dd6d11bb.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-2_hu_2885320557ce80d0.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-3_hu_b109eb160204abf4.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/ge-later-1/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/ge-later-1/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-1_hu_8d235d15cc50745c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-2_hu_91b58cff2df70384.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-3_hu_b525b681dab91100.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-4_hu_4d8aa21e21fd0e75.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/glorette/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/glorette/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-1_hu_82e867dbf698b2c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-2_hu_d74e6999b9c1b4ad.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-3_hu_c7681feb2d28998c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-4_hu_4deb0ba9b69a2268.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-5_hu_3596c50958ae554.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-6.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-6_hu_99c8bdb2e84070bc.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-7.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-7_hu_94db955bfbad7f95.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-8.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-8_hu_16b7e7082904d6df.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/hotpoint-115t17/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-115t17/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-1_hu_e2c0a2adf714599d.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-2_hu_2ebdd1014f12086c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-3_hu_4c7c811be67be8a4.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-4_hu_757bdf35ade54a3.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-5_hu_fa54507e8f750181.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/hotpoint-gazelle/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-gazelle/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-1_hu_bf46dd1d3383c8ba.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-2_hu_a60b2f132ecbf1bc.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-3_hu_2233a7daf7fb3748.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/hotpoint-turnover/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-turnover/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-1_hu_a036dbe94e216240.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-2_hu_dd879c9673e86b34.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-3_hu_3bc899f84085b404.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/lnh-205/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/lnh-205/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-1_hu_171af867c4cd9943.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-2_hu_24c005e940e4955b.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-3_hu_36ed1cb069fc6e51.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-4_hu_aa53886ab90738a5.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-5_hu_743d43b2e71da266.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-1_hu_dd63df6c7320da2b.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-2_hu_8904aba3a83b031d.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-3_hu_6be293dec1bbade3.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-4_hu_9d2b89d6853d5d30.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-5_hu_1fd6a7df4de5e84b.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-6.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-6_hu_957dcb4a1d2dd2c3.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/simplex-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/simplex-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-1_hu_63de3510e22c6b15.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-2_hu_85955ab5aa369d80.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-3_hu_12a02b2a1b97034c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4_hu_643d9305e339688b.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
 &lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/steelcraft-teaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/steelcraft-teaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
@@ -1037,622 +193,6 @@
  &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-5.jpg" 
  target="_blank"&gt;
  &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-teaster/steelcraft-teaster-5_hu_3f9a0249895716b9.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-1_hu_c027fa13f2cc023e.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-2_hu_e7d965ff739e6cf1.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-3_hu_7fdc54708e9f6c1f.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-4_hu_25279f016a3ae52c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-5_hu_983ad3176bbee976.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-6.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-6_hu_711e3a058561ac24.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/sunbeam-t35/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/sunbeam-t35/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-1_hu_71eca9320acbe116.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-2_hu_8215ec223b8709cd.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-3_hu_b0cbd1de79238812.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-4_hu_9ea9c61040f77f33.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/superlectric/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/superlectric/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-1_hu_b73b60e023173070.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-2_hu_17b74d33d228bca2.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-3_hu_ab1e29f3ddcd92cd.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-1_hu_8288ba19053d7b6b.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-2_hu_eeaa490ebdd50646.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-3_hu_ad91b1c35645acbc.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-4_hu_e93f90dce87bfb80.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-5_hu_8c291719aa17c8e.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/toast-o-lator/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toast-o-lator/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-1_hu_ba58918a9ee99249.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-2_hu_6b0112a81e16bc89.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-3_hu_2b19aba775884da3.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-4_hu_e26853babd8b0f7d.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-5_hu_b3459328de08645d.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-6.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-6_hu_bc8a93ffec8989f3.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/toastess-202/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastess-202/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-1_hu_e35e007c8fd7f083.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-2_hu_247642f2462bd629.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-3_hu_a9e877ffe6cf4d87.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-4_hu_db1da746a0026cc0.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/toastmaster-1a1/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-1a1/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-1_hu_581afdeddb172942.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-2_hu_c7b06b35b72f349d.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-3_hu_7807c0b8729cd384.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-4_hu_27b078b80e379c2e.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-5_hu_2808a58fb59807fd.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/toastmaster-1b5/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-1b5/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-1_hu_d39595f578ab6add.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-2_hu_ba1169baa6a81b79.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-3_hu_1cdb5011c8808817.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-4_hu_b235a37221d4649e.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-5_hu_693041fd20359a1.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -1870,7 +410,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/toastrite-blue-willow/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastrite-blue-willow/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Bar-b-q Marshmallow Toaster</title><link>https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -1886,9 +426,9 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-1.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-1_hu_a648939c3967a226.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1_hu_f14eca830904d42a.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -1898,9 +438,9 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-2.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-2_hu_27d8f9eb719ec805.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2_hu_347e37b1df918dee.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -1910,9 +450,57 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-3.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-3.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-3_hu_3147ab3ff8f9d4b3.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-3_hu_b308f35efb159f21.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4_hu_adc92dc954297265.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-5_hu_b3792083f134254f.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6_hu_796f659d08267044.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7_hu_46018da5f82190af.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -1926,7 +514,1363 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/toastrite-blue/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastrite-blue/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Coleman Model 1</title><link>https://www.tannerlegasse.com/toasters/coleman-model-1/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/coleman-model-1/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-1_hu_f175afe6dd40fcb0.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-2_hu_ce4afbde0c698c3.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-3_hu_3ecf152fc0464061.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/coleman-model-1/coleman-model-1-4_hu_8d65b6da08aea926.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Edicraft Speed Toaster</title><link>https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-1_hu_8288ba19053d7b6b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-2_hu_eeaa490ebdd50646.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-3_hu_ad91b1c35645acbc.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-4_hu_e93f90dce87bfb80.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/thomas-a-edison-edicraft-speed-toaster-5_hu_8c291719aa17c8e.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>GE D-12</title><link>https://www.tannerlegasse.com/toasters/ge-d12/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/ge-d12/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-1_hu_70154597dd6d11bb.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-2_hu_2885320557ce80d0.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/ge-d12/ge-d12-3_hu_b109eb160204abf4.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>GE Flapper</title><link>https://www.tannerlegasse.com/toasters/ge-later-1/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/ge-later-1/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-1_hu_8d235d15cc50745c.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-2_hu_91b58cff2df70384.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-3_hu_b525b681dab91100.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/ge-later-1/ge-later-1-4_hu_4d8aa21e21fd0e75.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Glorette</title><link>https://www.tannerlegasse.com/toasters/glorette/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/glorette/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-1_hu_82e867dbf698b2c.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-2_hu_d74e6999b9c1b4ad.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-3_hu_c7681feb2d28998c.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-4_hu_4deb0ba9b69a2268.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-5_hu_3596c50958ae554.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-6.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-6_hu_99c8bdb2e84070bc.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-7.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-7_hu_94db955bfbad7f95.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/glorette/glorette-8.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/glorette/glorette-8_hu_16b7e7082904d6df.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Hotpoint 115T17</title><link>https://www.tannerlegasse.com/toasters/hotpoint-115t17/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-115t17/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-1_hu_e2c0a2adf714599d.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-2_hu_2ebdd1014f12086c.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-3_hu_4c7c811be67be8a4.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-4_hu_757bdf35ade54a3.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-115t17/hotpoint-115t17-5_hu_fa54507e8f750181.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Hotpoint Gazelle</title><link>https://www.tannerlegasse.com/toasters/hotpoint-gazelle/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-gazelle/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-1_hu_bf46dd1d3383c8ba.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-2_hu_a60b2f132ecbf1bc.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-gazelle/hotpoint-gazelle-3_hu_2233a7daf7fb3748.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Hotpoint Turnover</title><link>https://www.tannerlegasse.com/toasters/hotpoint-turnover/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-turnover/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-1_hu_a036dbe94e216240.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-2_hu_dd879c9673e86b34.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/hotpoint-turnover/hotpoint-turnover-3_hu_3bc899f84085b404.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>L&amp;H 205</title><link>https://www.tannerlegasse.com/toasters/lnh-205/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/lnh-205/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-1_hu_171af867c4cd9943.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-2_hu_24c005e940e4955b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-3_hu_36ed1cb069fc6e51.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-4_hu_aa53886ab90738a5.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/lnh-205/lnh-205-5_hu_743d43b2e71da266.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Porcelier Basket Weave</title><link>https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-1_hu_dd63df6c7320da2b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-2_hu_8904aba3a83b031d.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-3_hu_6be293dec1bbade3.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-4_hu_9d2b89d6853d5d30.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-5_hu_1fd6a7df4de5e84b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-6.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/porcelier-basket-weave-set/porcelier-basket-weave-set-6_hu_957dcb4a1d2dd2c3.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Simplex</title><link>https://www.tannerlegasse.com/toasters/simplex-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/simplex-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-1_hu_63de3510e22c6b15.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-2_hu_85955ab5aa369d80.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-3_hu_12a02b2a1b97034c.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4_hu_643d9305e339688b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Sunbeam Model B</title><link>https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-1_hu_c027fa13f2cc023e.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-2_hu_e7d965ff739e6cf1.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-3_hu_7fdc54708e9f6c1f.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-4_hu_25279f016a3ae52c.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-5_hu_983ad3176bbee976.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-6.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/sunbeam-mobel-b-6_hu_711e3a058561ac24.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Sunbeam T35</title><link>https://www.tannerlegasse.com/toasters/sunbeam-t35/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/sunbeam-t35/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-1_hu_71eca9320acbe116.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-2_hu_8215ec223b8709cd.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-3_hu_b0cbd1de79238812.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/sunbeam-t35/sunbeam-t35-4_hu_9ea9c61040f77f33.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Superlectric</title><link>https://www.tannerlegasse.com/toasters/superlectric/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/superlectric/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-1_hu_b73b60e023173070.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-2_hu_17b74d33d228bca2.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-3_hu_ab1e29f3ddcd92cd.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Toast-o-lator</title><link>https://www.tannerlegasse.com/toasters/toast-o-lator/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toast-o-lator/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-1_hu_ba58918a9ee99249.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-2_hu_6b0112a81e16bc89.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-3_hu_2b19aba775884da3.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-4_hu_e26853babd8b0f7d.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-5_hu_b3459328de08645d.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-6.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-6_hu_bc8a93ffec8989f3.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Toastemaster 1a1</title><link>https://www.tannerlegasse.com/toasters/toastmaster-1a1/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-1a1/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-1_hu_581afdeddb172942.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-2_hu_c7b06b35b72f349d.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-3_hu_7807c0b8729cd384.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-4_hu_27b078b80e379c2e.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-5_hu_2808a58fb59807fd.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Toastemaster 2b5</title><link>https://www.tannerlegasse.com/toasters/toastmaster-2b5/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-2b5/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-1_hu_d39595f578ab6add.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-2_hu_ba1169baa6a81b79.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-3_hu_1cdb5011c8808817.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-4_hu_b235a37221d4649e.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-5_hu_693041fd20359a1.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Toastess 202</title><link>https://www.tannerlegasse.com/toasters/toastess-202/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastess-202/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-1_hu_e35e007c8fd7f083.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-2_hu_247642f2462bd629.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-3_hu_a9e877ffe6cf4d87.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastess-202/toastess-202-4_hu_db1da746a0026cc0.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Toastrite - Blue</title><link>https://www.tannerlegasse.com/toasters/toastrite-blue/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastrite-blue/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -1982,7 +1926,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/toastrite-green/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastrite-green/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Toastrite - Green</title><link>https://www.tannerlegasse.com/toasters/toastrite-green/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastrite-green/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2050,7 +1994,75 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/toastrite-red-willow/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastrite-red-willow/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Toastrite Blue Willow</title><link>https://www.tannerlegasse.com/toasters/toastrite-blue-willow/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastrite-blue-willow/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-1_hu_c1e13c499cb08221.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-2_hu_a648939c3967a226.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-3_hu_27d8f9eb719ec805.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-blue-willow/toastrite-blue-willow-4_hu_3147ab3ff8f9d4b3.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Toastrite Red Willow</title><link>https://www.tannerlegasse.com/toasters/toastrite-red-willow/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastrite-red-willow/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2068,7 +2080,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-1_hu_c1e13c499cb08221.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-1_hu_131f21eefca245d.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -2080,7 +2092,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-2_hu_131f21eefca245d.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-2_hu_e28c8f3ca9129a67.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -2092,7 +2104,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-3.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-3_hu_e28c8f3ca9129a67.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-3_hu_50ae7014e5f30f2c.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -2104,19 +2116,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-4.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-4_hu_50ae7014e5f30f2c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-5_hu_568b3c958064bab1.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastrite-red-willow/toastrite-red-willow-4_hu_568b3c958064bab1.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -2130,7 +2130,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/universal-lfc-e21221/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e21221/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal E21221</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e21221/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e21221/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2210,7 +2210,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7211f/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7211f/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal E7211F</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7211f/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7211f/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2278,7 +2278,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7222/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7222/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal E7222</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7222/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7222/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2370,7 +2370,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7732/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7732/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal E7732</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7732/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7732/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2450,7 +2450,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/universal-lfc-e9410/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e9410/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal E9410</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e9410/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e9410/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2518,7 +2518,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/universal-lfc-e945/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e945/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal E945</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e945/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e945/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2586,7 +2586,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/universal-lfc-e947/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e947/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal E947</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e947/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e947/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2666,7 +2666,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/universal-lfc-spartan/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-spartan/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal Spartan</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-spartan/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-spartan/</guid><description>&lt;p&gt;&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -2734,7 +2734,9 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title/><link>https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;
+
+An unknown, but very spartan model&lt;/p&gt;</description></item><item><title>Westinghouse Turnover Toaster</title><link>https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
