@@ -1,0 +1,11 @@
+{{ $src := .Get "src" }}
+{{ $caption := .Get "caption" }}
+{{ $size := .Get "size" | default "600x" }}
+{{ $image := .Page.Resources.Get $src }}
+{{ $resized := $image.Resize $size }}
+{{ with .Parent }}
+  <a href="{{ $image.RelPermalink }}" 
+    target="_blank">
+    <img src="{{ $resized.RelPermalink }}" alt="{{ $caption }}" />
+  </a>
+{{ end }}
