@@ -14,4 +14,5 @@ toaster-styles: ""
   {{< img src="./toastrite-blue-willow-1.jpg" caption="placeholder" >}}
   {{< img src="./toastrite-blue-willow-2.jpg" caption="placeholder" >}}
   {{< img src="./toastrite-blue-willow-3.jpg" caption="placeholder" >}}
+  {{< img src="./toastrite-blue-willow-4.jpg" caption="placeholder" >}}
 {{< /gallery >}}

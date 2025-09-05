@@ -2,13 +2,13 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Bar-b-q Marshmallow Toaster
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-decade: "1930s"
+toaster-years: "1930"
+toaster-brands: "Angelus Campfire"
+toaster-styles: "Marshmallow"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./bar-b-q-marshmallow-toaster-1.jpg" caption="placeholder" >}}
