@@ -12,6 +12,9 @@ languages:
       category: categories
       tag: tags
       series: series
+      decade: toaster-decades
+      brand: toaster-brands
+      style: toaster-styles
 
     menu:
       main:
