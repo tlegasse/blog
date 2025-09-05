@@ -2,13 +2,10 @@
 date: 2025-09-04
 authors:
   - Tanner Legasse
-title: 
+title: Newspaper and Magazines
 draft: false
 tags: ["toasters"]
-toaster-decade: ""
-toaster-years: ""
-toaster-brands: ""
-toaster-styles: ""
+toaster-brands: "Multi"
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./___newspapers-1.jpg" caption="placeholder" >}}
