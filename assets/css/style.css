@@ -1343,6 +1343,16 @@ nav.menu .menu__btn.menu__btn--active {
     margin-top: 50px;
 }
 
+.gallery-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px
+}
+
+.gallery-container > a > img {
+    max-width: 250px;
+}
 /* Media Queries */
 @media screen and (max-width: 1475px) {
     .container--outer {

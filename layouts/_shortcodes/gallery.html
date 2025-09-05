@@ -1,0 +1,20 @@
+<link type="text/css" rel="stylesheet" href="/light-gallery/css/lightgallery.css" />
+<link type="text/css" rel="stylesheet" href="/light-gallery/css/lg-zoom.css" />
+<link type="text/css" rel="stylesheet" href="/light-gallery/css/lg-thumbnail.css" />
+
+<script src="/light-gallery/lightgallery.umd.js"></script>
+<script src="/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+<script src="/light-gallery/plugins/zoom/lg-zoom.umd.js"></script>
+
+<div class="gallery-container" id="{{ .Get "id" }}">
+  {{ .Inner }}
+</div>
+
+<script type="text/javascript">
+    const ele = document.getElementById('{{ .Get "id" }}')
+    console.log(ele)
+    lightGallery(ele, {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+    });
+</script>
