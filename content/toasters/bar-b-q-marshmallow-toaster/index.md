@@ -1,13 +1,15 @@
 ---
-date: 2024-01-17
+date: 2025-09-04
 authors:
   - Tanner Legasse
 title: Bar-b-q Marhsmallow Toaster
 draft: false
 tags: ["toasters"]
-series: 
-cover:
-  image: ./IMG_20250904_183051_767.jpg
+toaster-decade: "1920s"
+toaster-years: "1923"
+toaster-brands: "Angelus Campfire"
+toaster-styles: "Marshmallow"
+tags: ["toasters"]
 ---
 
 {{< gallery id="content-gallery" >}}
