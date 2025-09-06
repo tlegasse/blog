@@ -9,6 +9,7 @@ toaster-decade: "1940s"
 toaster-years: "1940"
 toaster-brands: "Toastess"
 toaster-styles: "Flapper"
+thumbnail: toastess-202-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toastess-202-1.jpg" caption="placeholder" >}}

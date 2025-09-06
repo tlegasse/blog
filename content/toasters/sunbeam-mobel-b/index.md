@@ -9,6 +9,7 @@ toaster-decade: "1910s"
 toaster-years: "1910"
 toaster-brands: "Sunbeam"
 toaster-styles: "Bed"
+thumbnail: sunbeam-mobel-b-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./sunbeam-mobel-b-1.jpg" caption="placeholder" >}}

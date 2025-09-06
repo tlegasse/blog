@@ -9,6 +9,7 @@ toaster-decade: "1900s"
 toaster-years: "1909"
 toaster-brands: "Simplex"
 toaster-styles: "Flapper"
+thumbnail: simplex-toaster-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./simplex-toaster-1.jpg" caption="placeholder" >}}

@@ -9,6 +9,7 @@ toaster-decade: "1930s"
 toaster-years: "1930"
 toaster-brands: "Edicraft"
 toaster-styles: "Clamshell"
+thumbnail: thomas-a-edison-edicraft-speed-toaster-3.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./thomas-a-edison-edicraft-speed-toaster-1.jpg" caption="placeholder" >}}

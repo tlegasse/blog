@@ -9,6 +9,7 @@ toaster-decade: "1930s"
 toaster-years: "1930"
 toaster-brands: "Superlectric"
 toaster-styles: "Popup"
+thumbnail: superlectric-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./superlectric-1.jpg" caption="placeholder" >}}

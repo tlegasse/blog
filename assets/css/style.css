@@ -1148,6 +1148,10 @@ textarea {
     letter-spacing: -1px;
 }
 
+.widget__title a {
+    color: var(--backgroundColor)
+}
+
 .widget__item {
     display: block;
     padding: 10px 15px;

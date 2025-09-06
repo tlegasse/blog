@@ -9,6 +9,7 @@ toaster-decade: "1930s"
 toaster-years: "1930"
 toaster-brands: "Toastrite"
 toaster-styles: "Percher"
+thumbnail: toastrite-blue-willow-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toastrite-blue-willow-1.jpg" caption="placeholder" >}}

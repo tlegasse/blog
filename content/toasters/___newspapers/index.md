@@ -6,6 +6,7 @@ title: Newspaper and Magazines
 draft: false
 tags: ["toasters"]
 toaster-brands: "Multi"
+thumbnail: ___newspapers-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./___newspapers-1.jpg" caption="placeholder" >}}

@@ -9,6 +9,7 @@ toaster-decade: "1910s"
 toaster-years: "1910"
 toaster-brands: "Universal Landers Frary and Clark"
 toaster-styles: "Pincher"
+thumbnail: universal-lfc-e945-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./universal-lfc-e945-1.jpg" caption="placeholder" >}}

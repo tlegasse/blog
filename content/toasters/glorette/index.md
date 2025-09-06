@@ -9,6 +9,7 @@ toaster-decade: "1930s"
 toaster-years: "1932"
 toaster-brands: "Glorette"
 toaster-styles: "Multi"
+thumbnail: glorette-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./glorette-1.jpg" caption="placeholder" >}}

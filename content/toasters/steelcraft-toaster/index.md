@@ -9,6 +9,7 @@ toaster-decade: "1920s"
 toaster-years: "~1920"
 toaster-brands: "Steelcraft"
 toaster-styles: "Flapper"
+thumbnail: steelcraft-toaster-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./steelcraft-toaster-1.jpg" caption="placeholder" >}}

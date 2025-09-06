@@ -9,6 +9,7 @@ toaster-decade: "1920s"
 toaster-years: "1920"
 toaster-brands: "L&H"
 toaster-styles: "Dropper"
+thumbnail: lnh-205-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./lnh-205-1.jpg" caption="placeholder" >}}
