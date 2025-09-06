@@ -5,8 +5,8 @@ authors:
 title: Universal E7222
 draft: false
 tags: ["toasters"]
-toaster-decade: "1910s"
-toaster-years: "1910"
+toaster-decade: "1920s"
+toaster-years: "~1920"
 toaster-brands: "Universal Landers Frary and Clark"
 toaster-styles: "Slide out"
 ---
