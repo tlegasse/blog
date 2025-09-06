@@ -16,3 +16,5 @@ toaster-styles: "Flapper"
   {{< img src="./toastess-202-3.jpg" caption="placeholder" >}}
   {{< img src="./toastess-202-4.jpg" caption="placeholder" >}}
 {{< /gallery >}}
+
+This is my first toaster. Gifted to me by my dad in 2016. Thanks Dad!

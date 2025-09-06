@@ -1347,7 +1347,8 @@ nav.menu .menu__btn.menu__btn--active {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 15px
+    gap: 15px;
+    margin-bottom: 1.25rem;
 }
 
 .gallery-container > a > img {
