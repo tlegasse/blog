@@ -16,7 +16,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-1_hu_ba58918a9ee99249.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-1_hu_ba58918a9ee99249.jpg" alt="Front face with controls." /&gt;
  &lt;/a&gt;
  
 
@@ -28,7 +28,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-2_hu_6b0112a81e16bc89.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-2_hu_6b0112a81e16bc89.jpg" alt="Other side of toaster, with cord." /&gt;
  &lt;/a&gt;
  
 
@@ -40,7 +40,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-3.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-3_hu_2b19aba775884da3.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-3_hu_2b19aba775884da3.jpg" alt="Other face" /&gt;
  &lt;/a&gt;
  
 
@@ -52,7 +52,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-4.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-4_hu_e26853babd8b0f7d.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-4_hu_e26853babd8b0f7d.jpg" alt="View of the seeing glass" /&gt;
  &lt;/a&gt;
  
 
@@ -64,7 +64,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-5.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-5_hu_b3459328de08645d.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-5_hu_b3459328de08645d.jpg" alt="View down the center of the conveyor port" /&gt;
  &lt;/a&gt;
  
 
@@ -76,7 +76,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-6.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-6_hu_bc8a93ffec8989f3.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toast-o-lator/toast-o-lator-6_hu_bc8a93ffec8989f3.jpg" alt="The bottom." /&gt;
  &lt;/a&gt;
  
 
@@ -90,4 +90,6 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item></channel></rss>
+&lt;/script&gt;
+
+&lt;p&gt;Some toasters are overrated. This may be one of them. It is unlike any other, I&amp;rsquo;ll give it that, it has a conveyor belt that moves the bread past coiled heating elements. It works medium well, and is very mechanically complex. Overall, I&amp;rsquo;d give it a &amp;ldquo;great innovation, but lacking&amp;rdquo; out of 10. It&amp;rsquo;s cool as hell though.&lt;/p&gt;</description></item></channel></rss>

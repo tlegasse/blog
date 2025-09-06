@@ -16,7 +16,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-1_hu_b73b60e023173070.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-1_hu_b73b60e023173070.jpg" alt="Front face" /&gt;
  &lt;/a&gt;
  
 
@@ -28,7 +28,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-2_hu_17b74d33d228bca2.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-2_hu_17b74d33d228bca2.jpg" alt="Top" /&gt;
  &lt;/a&gt;
  
 
@@ -40,7 +40,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/superlectric/superlectric-3.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-3_hu_ab1e29f3ddcd92cd.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/superlectric/superlectric-3_hu_ab1e29f3ddcd92cd.jpg" alt="Other face" /&gt;
  &lt;/a&gt;
  
 
@@ -54,4 +54,6 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item></channel></rss>
+&lt;/script&gt;
+
+&lt;p&gt;I find this toaster to be quite pretty. I also find the mechanism to be quite cheap feeling. Overall&amp;hellip; I like it.&lt;/p&gt;</description></item></channel></rss>

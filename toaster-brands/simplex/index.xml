@@ -16,7 +16,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-1_hu_63de3510e22c6b15.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-1_hu_63de3510e22c6b15.jpg" alt="Front left" /&gt;
  &lt;/a&gt;
  
 
@@ -28,7 +28,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-2_hu_85955ab5aa369d80.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-2_hu_85955ab5aa369d80.jpg" alt="A view inside" /&gt;
  &lt;/a&gt;
  
 
@@ -40,7 +40,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-3.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-3_hu_12a02b2a1b97034c.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-3_hu_12a02b2a1b97034c.jpg" alt="Doors removed" /&gt;
  &lt;/a&gt;
  
 
@@ -52,7 +52,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4_hu_643d9305e339688b.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/simplex-toaster/simplex-toaster-4_hu_643d9305e339688b.jpg" alt="The brand plaque" /&gt;
  &lt;/a&gt;
  
 
@@ -66,4 +66,6 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item></channel></rss>
+&lt;/script&gt;
+
+&lt;p&gt;This rare toaster is my earliest toaster NOT from GE. The D-12 was the first, and this one might have come out months afterwards. It&amp;rsquo;s also really ingenious, using convertible doors and my only toaster with asbestos elements. I&amp;rsquo;ll never use it.&lt;/p&gt;</description></item></channel></rss>
