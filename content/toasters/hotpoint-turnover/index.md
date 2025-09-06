@@ -16,3 +16,5 @@ thumbnail: hotpoint-turnover-1.jpg
   {{< img src="./hotpoint-turnover-2.jpg" caption="placeholder" >}}
   {{< img src="./hotpoint-turnover-3.jpg" caption="placeholder" >}}
 {{< /gallery >}}
+
+I love this angular and abrupt design. Early Hotpoints may be simple, but they are beautiful, and hey, the wound nichrome elements means it's still in operation 100 years on.
