@@ -447,7 +447,7 @@ They have appeared in different colors. Some of them have bright red feet, but p
  
  &lt;a href="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-1_hu_318c675ff2675d47.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-1_hu_318c675ff2675d47.jpg" alt="Front left." /&gt;
  &lt;/a&gt;
  
 
@@ -459,31 +459,7 @@ They have appeared in different colors. Some of them have bright red feet, but p
  
  &lt;a href="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-2_hu_d69f9a9cdbbe4526.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-3_hu_8054a22744c05a2a.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-4_hu_f193119127bb0bbb.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-2_hu_d69f9a9cdbbe4526.jpg" alt="The top, a very attractive design" /&gt;
  &lt;/a&gt;
  
 
@@ -495,7 +471,7 @@ They have appeared in different colors. Some of them have bright red feet, but p
  
  &lt;a href="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-5.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-5_hu_787fa109d46e54cc.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-5_hu_787fa109d46e54cc.jpg" alt="Door down, cord port visible here" /&gt;
  &lt;/a&gt;
  
 
@@ -507,7 +483,31 @@ They have appeared in different colors. Some of them have bright red feet, but p
  
  &lt;a href="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-6.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-6_hu_19ade5dec5daff42.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-6_hu_19ade5dec5daff42.jpg" alt="Door down, you can observe the plipping mechanism here." /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-4_hu_f193119127bb0bbb.jpg" alt="The bottom, where the junction box can be observed. This one has ceramic damage, so is lacking the wire retaining bar." /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/westinghouse-turnover-toaster-3_hu_8054a22744c05a2a.jpg" alt="The brand plaque" /&gt;
  &lt;/a&gt;
  
 
@@ -521,4 +521,6 @@ They have appeared in different colors. Some of them have bright red feet, but p
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item></channel></rss>
+&lt;/script&gt;
+
+&lt;p&gt;This wonderful toaster represents the first turnover toaster. That is, a toaster with doors on the side bearing fingers on the bottom that simultaneously hold the toast up, and flip it over when you draw the doors down. This design was patented by David Copeman, but it&amp;rsquo;s rumored that his wife invented the design, inspired by earrings she saw in a shop window. Quite a fun story when you think about it, I wish she got the credit if she invented it, but it informed the next 6 or so years of toasters. Patent was in 1914.&lt;/p&gt;</description></item></channel></rss>
