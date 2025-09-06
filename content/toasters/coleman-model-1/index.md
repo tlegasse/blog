@@ -18,3 +18,4 @@ thumbnail: coleman-model-1-1.jpg
   {{< img src="./coleman-model-1-4.jpg" caption="Bottom. Get a load of this junction box. Yeeps" >}}
 {{< /gallery >}}
 
+It's hard to find much information about this toaster. I believe it's related to *that* Coleman. It certainly is art deco chic!
