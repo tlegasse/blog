@@ -12,7 +12,9 @@ toaster-styles: "Popup"
 thumbnail: superlectric-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
-  {{< img src="./superlectric-1.jpg" caption="placeholder" >}}
-  {{< img src="./superlectric-2.jpg" caption="placeholder" >}}
-  {{< img src="./superlectric-3.jpg" caption="placeholder" >}}
+  {{< img src="./superlectric-1.jpg" caption="Front face" >}}
+  {{< img src="./superlectric-2.jpg" caption="Top" >}}
+  {{< img src="./superlectric-3.jpg" caption="Other face" >}}
 {{< /gallery >}}
+
+I find this toaster to be quite pretty. I also find the mechanism to be quite cheap feeling. Overall... I like it.

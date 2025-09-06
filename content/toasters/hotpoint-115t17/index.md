@@ -18,3 +18,5 @@ thumbnail: hotpoint-115t17-1.jpg
   {{< img src="./hotpoint-115t17-4.jpg" caption="placeholder" >}}
   {{< img src="./hotpoint-115t17-5.jpg" caption="placeholder" >}}
 {{< /gallery >}}
+
+This is a pretty normal looking toaster, but Hotpoints like this are robust and very reliable. A great choice as compared to drugstore toasters you'd be liable to see in its era. This one has manual controls only, but some had timers too.
