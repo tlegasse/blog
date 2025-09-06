@@ -1,84 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>1910s on Tanner Legasse</title><link>https://www.tannerlegasse.com/toaster-decade/1910s/</link><description>Recent content in 1910s on Tanner Legasse</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tannerlegasse.com/toaster-decade/1910s/index.xml" rel="self" type="application/rss+xml"/><item><title>Steelcraft</title><link>https://www.tannerlegasse.com/toasters/steelcraft-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/steelcraft-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-1_hu_e6cb2f2a0d726af5.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-2_hu_97c2ec7b3a3ee24c.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-3_hu_71c00e306f54ae60.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-4_hu_36c1c4663177401b.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-5_hu_3f9a0249895716b9.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;</description></item><item><title>Sunbeam Model B</title><link>https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>1910s on Tanner Legasse</title><link>https://www.tannerlegasse.com/toaster-decade/1910s/</link><description>Recent content in 1910s on Tanner Legasse</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tannerlegasse.com/toaster-decade/1910s/index.xml" rel="self" type="application/rss+xml"/><item><title>Sunbeam Model B</title><link>https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/sunbeam-mobel-b/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -250,98 +170,6 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title>Universal E7222</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7222/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7222/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-1_hu_5b960b0144aab65b.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-2_hu_fa8d6ba8db13b0c6.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-3_hu_232d323420b85322.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-4_hu_4aa828144c20e766.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-5_hu_3a0e407ceed52682.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-6.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-6_hu_1c90c8e9d2d9217a.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
 &lt;/script&gt;</description></item><item><title>Universal E7732</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7732/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7732/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
@@ -422,7 +250,89 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title>Universal E945</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e945/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e945/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Universal e94</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e94/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e94/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-1_hu_14cf89d833571ba2.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-2_hu_9f90337869009154.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-3_hu_9f26927293e812f0.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-5_hu_2bca5cbe3d174908.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e94/universal-lfc-spartan-4_hu_1b28203bdf69fe4a.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;
+
+&lt;p&gt;A decidedly spartan example. It has patents listed on the bottom to as late as 1915. This toaster resembles the toaster that the manufacturers of the AK-47 may appreciate. It is a toaster, it toasts, there is nothing more to be said.&lt;/p&gt;</description></item><item><title>Universal E945</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e945/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e945/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -570,77 +480,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title>Universal Spartan</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-spartan/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-spartan/</guid><description>&lt;p&gt;&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
-&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
-
-&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
-&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
-
-&lt;div class="gallery-container" id="content-gallery"&gt;
- 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-spartan/universal-lfc-spartan-1.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-spartan/universal-lfc-spartan-1_hu_14cf89d833571ba2.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-spartan/universal-lfc-spartan-2.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-spartan/universal-lfc-spartan-2_hu_9f90337869009154.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-spartan/universal-lfc-spartan-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-spartan/universal-lfc-spartan-3_hu_9f26927293e812f0.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-spartan/universal-lfc-spartan-4.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-spartan/universal-lfc-spartan-4_hu_1b28203bdf69fe4a.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
-
-&lt;/div&gt;
-
-&lt;script type="text/javascript"&gt;
- const ele = document.getElementById('content-gallery')
- console.log(ele)
- lightGallery(ele, {
- plugins: [lgZoom, lgThumbnail],
- speed: 500,
- });
-&lt;/script&gt;
-
-An unknown, but very spartan model&lt;/p&gt;</description></item><item><title>Westinghouse Turnover Toaster</title><link>https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Westinghouse Turnover Toaster</title><link>https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/westinghouse-turnover-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 

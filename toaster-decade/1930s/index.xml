@@ -16,7 +16,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1_hu_f14eca830904d42a.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1_hu_f14eca830904d42a.jpg" alt="Front" /&gt;
  &lt;/a&gt;
  
 
@@ -28,19 +28,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2_hu_347e37b1df918dee.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-3_hu_b308f35efb159f21.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2_hu_347e37b1df918dee.jpg" alt="Top" /&gt;
  &lt;/a&gt;
  
 
@@ -52,7 +40,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4_hu_adc92dc954297265.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4_hu_adc92dc954297265.jpg" alt="Back" /&gt;
  &lt;/a&gt;
  
 
@@ -62,9 +50,9 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-5.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-9.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-5_hu_b3792083f134254f.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-9_hu_3270c6382f130ce9.jpg" alt="Top with the basket removed" /&gt;
  &lt;/a&gt;
  
 
@@ -76,7 +64,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6_hu_796f659d08267044.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6_hu_796f659d08267044.jpg" alt="Box Front" /&gt;
  &lt;/a&gt;
  
 
@@ -88,7 +76,19 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7_hu_46018da5f82190af.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7_hu_46018da5f82190af.jpg" alt="Box Back. Get a load of these people lol." /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-8.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-8_hu_bb06d0dd138e55f7.jpg" alt="A brief explaination" /&gt;
  &lt;/a&gt;
  
 
@@ -102,7 +102,9 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title>Edicraft Speed Toaster</title><link>https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;
+
+&lt;p&gt;One of the things I love most about toasters is the occasional frivolity of it all. A toaster that toasts marshmallows&amp;hellip; I mean WHY NOT?!&lt;/p&gt;</description></item><item><title>Edicraft Speed Toaster</title><link>https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/thomas-a-edison-edicraft-speed-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -298,7 +300,9 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title>Hotpoint Gazelle</title><link>https://www.tannerlegasse.com/toasters/hotpoint-gazelle/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-gazelle/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;
+
+&lt;p&gt;This specimen exudes a kind of care and individualism that you don&amp;rsquo;t normally see. The &amp;ldquo;Glorette&amp;rdquo; brand was pioneered by a man named Harry Virgil Glore, and was &lt;a href="https://patents.google.com/patent/US2040480A/en?q=%28glore%29&amp;amp;inventor=harry&amp;#43;v&amp;amp;oq=harry&amp;#43;v&amp;#43;glore"&gt;patented&lt;/a&gt; in 1933 and produced (as far as I&amp;rsquo;m able to tell) for only a few years. There was no model 2.&lt;/p&gt;</description></item><item><title>Hotpoint Gazelle</title><link>https://www.tannerlegasse.com/toasters/hotpoint-gazelle/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/hotpoint-gazelle/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -594,7 +598,7 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title>Toastemaster 2b5</title><link>https://www.tannerlegasse.com/toasters/toastmaster-2b5/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-2b5/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Toastemaster 1B5</title><link>https://www.tannerlegasse.com/toasters/toastmaster-1b5/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-1b5/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -610,9 +614,9 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-1.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-1_hu_d39595f578ab6add.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-1_hu_d39595f578ab6add.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -622,9 +626,9 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-2.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-2_hu_ba1169baa6a81b79.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-2_hu_ba1169baa6a81b79.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -634,9 +638,9 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-3.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-3.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-3_hu_1cdb5011c8808817.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-3_hu_1cdb5011c8808817.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -646,9 +650,9 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-4.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-4.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-4_hu_b235a37221d4649e.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-4_hu_b235a37221d4649e.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -658,9 +662,145 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-5.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-5.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-2b5/toastmaster-2b5-5_hu_693041fd20359a1.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b5/toastmaster-1b5-5_hu_693041fd20359a1.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Toastmaster 1B7</title><link>https://www.tannerlegasse.com/toasters/toastmaster-1b7/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-1b7/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b7/toastmaster-1b7-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b7/toastmaster-1b7-1_hu_ffad6739b9f97a72.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b7/toastmaster-1b7-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b7/toastmaster-1b7-2_hu_86628883853e2628.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b7/toastmaster-1b7-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b7/toastmaster-1b7-3_hu_5419f8b224757172.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b7/toastmaster-1b7-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b7/toastmaster-1b7-4_hu_1a67dd0bc5df8da7.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;</description></item><item><title>Toastmaster 1B8</title><link>https://www.tannerlegasse.com/toasters/toastmaster-1b8/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-1b8/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b8/toastmaster-1b8-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b8/toastmaster-1b8-1_hu_f4769e98351b214b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b8/toastmaster-1b8-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b8/toastmaster-1b8-2_hu_89387b6fbadc8e3f.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b8/toastmaster-1b8-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b8/toastmaster-1b8-3_hu_a35c67227bbd1674.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1b8/toastmaster-1b8-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1b8/toastmaster-1b8-4_hu_43300fecf7dac6ad.jpg" alt="placeholder" /&gt;
  &lt;/a&gt;
  
 
@@ -934,4 +1074,123 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item></channel></rss>
+&lt;/script&gt;</description></item><item><title>Universal E7222</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7222/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7222/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-1_hu_5b960b0144aab65b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-2_hu_fa8d6ba8db13b0c6.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-3_hu_232d323420b85322.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-4_hu_4aa828144c20e766.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-5_hu_3a0e407ceed52682.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-6.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/universal-lfc-e7222-6_hu_1c90c8e9d2d9217a.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/___newspapers-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/___newspapers-1_hu_443aa188f8190f81.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/___newspapers-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e7222/___newspapers-4_hu_edb082d2c4dd07f6.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;
+
+&lt;p&gt;This is a decidedly beautiful and opulent single slice toaster. Its latching mechanism is particularly frustrating and finicky.
+It has a timer circuit, providing an automated means of cooking your bread. Assuming that the newspaper clipping is from when it was new in 1930, and adjusting for inflation to the time of this writing, this toaster was worth roughly $338 in today&amp;rsquo;s money 😮&lt;/p&gt;</description></item></channel></rss>

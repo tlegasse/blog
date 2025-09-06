@@ -214,7 +214,90 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title>Toastemaster 1a1</title><link>https://www.tannerlegasse.com/toasters/toastmaster-1a1/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-1a1/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;</description></item><item><title>Steelcraft</title><link>https://www.tannerlegasse.com/toasters/steelcraft-toaster/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/steelcraft-toaster/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
+&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
+
+&lt;script src="https://www.tannerlegasse.com/light-gallery/lightgallery.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/thumbnail/lg-thumbnail.umd.js"&gt;&lt;/script&gt;
+&lt;script src="https://www.tannerlegasse.com/light-gallery/plugins/zoom/lg-zoom.umd.js"&gt;&lt;/script&gt;
+
+&lt;div class="gallery-container" id="content-gallery"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-1.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-1_hu_e6cb2f2a0d726af5.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-2.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-2_hu_97c2ec7b3a3ee24c.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-3.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-3_hu_71c00e306f54ae60.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-4.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-4_hu_36c1c4663177401b.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/steelcraft-toaster/steelcraft-toaster-5_hu_3f9a0249895716b9.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
+
+&lt;/div&gt;
+
+&lt;script type="text/javascript"&gt;
+ const ele = document.getElementById('content-gallery')
+ console.log(ele)
+ lightGallery(ele, {
+ plugins: [lgZoom, lgThumbnail],
+ speed: 500,
+ });
+&lt;/script&gt;
+
+&lt;p&gt;I have a lot of love for this toaster. It is true to say that it&amp;rsquo;s sparse. It&amp;rsquo;s true to say that it may be the actual least that an object can be to be considered a toaster, but there&amp;rsquo;s something specail about this one. It reminds me of the American Arts and Crafts movement, or something you&amp;rsquo;d see in a farmhouse.
+They have appeared in different colors. Some of them have bright red feet, but polished wire.&lt;/p&gt;</description></item><item><title>Toastemaster 1A1</title><link>https://www.tannerlegasse.com/toasters/toastmaster-1a1/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/toastmaster-1a1/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -272,18 +355,6 @@
  &lt;/a&gt;
  
 
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-5.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/toastmaster-1a1/toastmaster-1a1-5_hu_2808a58fb59807fd.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
 
 &lt;/div&gt;
 
@@ -294,7 +365,9 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item><item><title>Universal E7211F</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7211f/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7211f/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
+&lt;/script&gt;
+
+&lt;p&gt;This is the first consumer-available popup toasters. Toastmaster (Charles Strite) had produced commercially available toasters to restaurants as early as 1919, but miniaturization would prove illusive until the mighty 1A1. The timing mechanism would remain quite similar throughout the toastmaster lineage.&lt;/p&gt;</description></item><item><title>Universal E7211F</title><link>https://www.tannerlegasse.com/toasters/universal-lfc-e7211f/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://www.tannerlegasse.com/toasters/universal-lfc-e7211f/</guid><description>&lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lightgallery.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-zoom.css" /&gt;
 &lt;link type="text/css" rel="stylesheet" href="https://www.tannerlegasse.com/light-gallery/css/lg-thumbnail.css" /&gt;
 
@@ -420,6 +493,18 @@
  &lt;/a&gt;
  
 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/universal-lfc-e9410/___newspapers-5.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/universal-lfc-e9410/___newspapers-5_hu_364abf9750a2c657.jpg" alt="placeholder" /&gt;
+ &lt;/a&gt;
+ 
+
 
 &lt;/div&gt;
 
@@ -430,4 +515,6 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item></channel></rss>
+&lt;/script&gt;
+
+&lt;p&gt;The sweetheart toaster. It was available both with and without the floral embelishments on the base. It was a decidedly lovely toaster, and appears to have sold well. The ivory colored &amp;ldquo;buttons&amp;rdquo; on the base cause either toast cage to drop outwards and rotate about its axis, as can be seen in the following video:&lt;/p&gt;</description></item></channel></rss>

@@ -16,7 +16,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1_hu_f14eca830904d42a.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-1_hu_f14eca830904d42a.jpg" alt="Front" /&gt;
  &lt;/a&gt;
  
 
@@ -28,19 +28,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2_hu_347e37b1df918dee.jpg" alt="placeholder" /&gt;
- &lt;/a&gt;
- 
-
- 
- 
- 
- 
- 
- 
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-3.jpg" 
- target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-3_hu_b308f35efb159f21.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-2_hu_347e37b1df918dee.jpg" alt="Top" /&gt;
  &lt;/a&gt;
  
 
@@ -52,7 +40,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4_hu_adc92dc954297265.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-4_hu_adc92dc954297265.jpg" alt="Back" /&gt;
  &lt;/a&gt;
  
 
@@ -62,9 +50,9 @@
  
  
  
- &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-5.jpg" 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-9.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-5_hu_b3792083f134254f.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-9_hu_3270c6382f130ce9.jpg" alt="Top with the basket removed" /&gt;
  &lt;/a&gt;
  
 
@@ -76,7 +64,7 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6_hu_796f659d08267044.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-6_hu_796f659d08267044.jpg" alt="Box Front" /&gt;
  &lt;/a&gt;
  
 
@@ -88,7 +76,19 @@
  
  &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7.jpg" 
  target="_blank"&gt;
- &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7_hu_46018da5f82190af.jpg" alt="placeholder" /&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-7_hu_46018da5f82190af.jpg" alt="Box Back. Get a load of these people lol." /&gt;
+ &lt;/a&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-8.jpg" 
+ target="_blank"&gt;
+ &lt;img src="https://www.tannerlegasse.com/toasters/bar-b-q-marshmallow-toaster/bar-b-q-marshmallow-toaster-8_hu_bb06d0dd138e55f7.jpg" alt="A brief explaination" /&gt;
  &lt;/a&gt;
  
 
@@ -102,4 +102,6 @@
  plugins: [lgZoom, lgThumbnail],
  speed: 500,
  });
-&lt;/script&gt;</description></item></channel></rss>
+&lt;/script&gt;
+
+&lt;p&gt;One of the things I love most about toasters is the occasional frivolity of it all. A toaster that toasts marshmallows&amp;hellip; I mean WHY NOT?!&lt;/p&gt;</description></item></channel></rss>
