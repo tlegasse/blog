@@ -9,6 +9,7 @@ toaster-decade: "1930s"
 toaster-years: "1930"
 toaster-brands: "Toastmaster"
 toaster-styles: "Popup"
+thumbnail: toastmaster-1b5-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toastmaster-1b5-1.jpg" caption="placeholder" >}}

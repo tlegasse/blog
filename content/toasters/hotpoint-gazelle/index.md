@@ -9,6 +9,7 @@ toaster-decade: "1930s"
 toaster-years: "1930"
 toaster-brands: "Hotpoint"
 toaster-styles: "Tilt"
+thumbnail: hotpoint-gazelle-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./hotpoint-gazelle-1.jpg" caption="placeholder" >}}

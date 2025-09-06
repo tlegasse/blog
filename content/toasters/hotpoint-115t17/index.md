@@ -9,6 +9,7 @@ toaster-decade: "1920s"
 toaster-years: "1920"
 toaster-brands: "Hotpoint"
 toaster-styles: "Flapper"
+thumbnail: hotpoint-115t17-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./hotpoint-115t17-1.jpg" caption="placeholder" >}}

@@ -9,6 +9,7 @@ toaster-decade: ""
 toaster-years: ""
 toaster-brands: ""
 toaster-styles: ""
+thumbnail: hotpoint-129t41-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./hotpoint-129t41-1.jpg" caption="placeholder" >}}

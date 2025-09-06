@@ -9,6 +9,7 @@ toaster-decade: "1910s"
 toaster-years: "1914"
 toaster-brands: "Westinghouse"
 toaster-styles: "Flapper"
+thumbnail: westinghouse-turnover-toaster-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./westinghouse-turnover-toaster-1.jpg" caption="placeholder" >}}

@@ -9,6 +9,7 @@ toaster-decade: "1930s"
 toaster-years: "~1930"
 toaster-brands: "Universal Landers Frary and Clark"
 toaster-styles: "Slide out"
+thumbnail: universal-lfc-e7222-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./universal-lfc-e7222-1.jpg" caption="placeholder" >}}

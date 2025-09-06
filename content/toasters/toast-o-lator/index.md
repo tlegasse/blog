@@ -9,6 +9,7 @@ toaster-decade: "1930s"
 toaster-years: "1930"
 toaster-brands: "Toast-o-lator"
 toaster-styles: "Conveyor"
+thumbnail: toast-o-lator-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toast-o-lator-1.jpg" caption="placeholder" >}}

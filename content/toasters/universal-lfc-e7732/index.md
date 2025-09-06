@@ -9,6 +9,7 @@ toaster-decade: "1910s"
 toaster-years: "1910"
 toaster-brands: "Universal Landers Frary and Clark"
 toaster-styles: "Dropper"
+thumbnail: universal-lfc-e7732-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./universal-lfc-e7732-1.jpg" caption="placeholder" >}}

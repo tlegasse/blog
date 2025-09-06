@@ -9,6 +9,7 @@ toaster-decade: ""
 toaster-years: ""
 toaster-brands: ""
 toaster-styles: ""
+thumbnail: coleman-model-1-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./coleman-model-1-1.jpg" caption="placeholder" >}}

@@ -9,6 +9,7 @@ toaster-decade: "1960s"
 toaster-years: "1960"
 toaster-brands: "Sunbeam"
 toaster-styles: "Popup"
+thumbnail: sunbeam-t35-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./sunbeam-t35-1.jpg" caption="placeholder" >}}

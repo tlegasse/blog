@@ -9,6 +9,7 @@ toaster-decade: "1920s"
 toaster-years: "1926"
 toaster-brands: "Toastmaster"
 toaster-styles: "Popup"
+thumbnail: toastmaster-1a1-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toastmaster-1a1-1.jpg" caption="placeholder" >}}

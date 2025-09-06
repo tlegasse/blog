@@ -9,6 +9,7 @@ toaster-decade: "1910s"
 toaster-years: "1910"
 toaster-brands: "Universal Landers Frary and Clark"
 toaster-styles: "Flip out"
+thumbnail: universal-lfc-e21221-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./universal-lfc-e21221-1.jpg" caption="placeholder" >}}

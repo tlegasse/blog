@@ -9,6 +9,7 @@ toaster-decade: "1960s"
 toaster-years: "1960"
 toaster-brands: "toastmaster"
 toaster-styles: "Popup"
+thumbnail: toastmaster-later-1b14-1.jpg
 ---
 {{< gallery id="content-gallery" >}}
   {{< img src="./toastmaster-later-1b14-1.jpg" caption="placeholder" >}}
