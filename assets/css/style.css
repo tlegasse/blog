@@ -726,6 +726,12 @@ button:not(:-moz-focusring):focus>.menu__btn-title {
     width: 100%;
 }
 
+.content--toaster .toaster-meta{
+    border-bottom: 1px solid #4255C338;
+    margin-bottom: 2.25rem;
+}
+
+
 .content a,
 .warning a,
 .authorbox__description a {
