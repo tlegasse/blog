@@ -22,7 +22,7 @@ thumbnail: hand-made-toaster-1-1.jpg
   {{< img src="./hand-made-toaster-1-9.jpg" caption="Another side" >}}
 {{< /gallery >}}
 
-There are SO many things I love about toasters, but my absolute favorite is that occasionally you'll come across specimens that were made in small volumes, like the [Glorette](/toasters/glorette/), but very seldome can one point to an entire hand made specimen!
+There are SO many things I love about toasters, but my absolute favorite is that occasionally you'll come across specimens that were made in small volumes, like the [Glorette](/toasters/glorette/), or perhaps one can find a particularly spartan toaster, like the [Steelcraft](/toasters/steelcraft-toaster/), but very seldom can one point to an entire hand made specimen like this one potentially is. I also found it at a local antique store to boot!
 
 
 This toaster was either a very rough, inexact unit straight from the manufacturer, and was hobbled along by the owner in ways I'll outline below, or this toaster was made by hand.
@@ -34,7 +34,7 @@ Here's a few ways I see evidence of hand-made elements:
 - The springs pulling shut the crude wire pinchers differ from one side to the other.
 
 
-There are also a few reasons I suspect the body to be hand made, like the fact that basically every dimension is unsymetrical and off by just a hair.
+There are also a few reasons I suspect the body to be hand made, like the fact that basically every dimension is asymmetrical and off by just a hair.
 
 
 Regardless of its true origin, this toaster was either made with love, or limped through time with love, and this makes me very happy. Its crude appearance is but a distinguishing feature, and is not a drawback, and my time as its steward will be marked by a deep appreciation.
