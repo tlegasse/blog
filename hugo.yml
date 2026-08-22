@@ -48,6 +48,7 @@ params:
       - "recent"
       # - "categories"
       - "toaster-decades"
+      - "recent-albums"
 
   widgets:
     recent_num: 5
@@ -64,6 +65,9 @@ params:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
+
+  recentAlbums:
+    - recent_albums
 
   mainSections:
     - projects

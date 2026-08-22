@@ -8,6 +8,7 @@ const LB_USERNAME = process.env.LISTENBRAINZ_USERNAME
 const LB_PASSWORD = process.env.LISTENBRAINZ_USER_KEY
 
 const ALBUMS_PATH = "./content/recent_albums"
+const MB_ALBUM_BASE_URL = "https://musicbrainz.org/release/"
 
 // Grab listenbrainz listens
 async function getLbData() {
@@ -104,10 +105,12 @@ async function writeAlbumMd(albums) {
     const filename = `${ALBUMS_PATH}/${albumTitle.toLowerCase().replace(/ /g, '-')}.md`;
 
     const fileContents = `---
+build:
+  render: never
 title: ${albumTitle}
 image: ${album.image}
 artist: ${album.artist}
-url: ${album.mbid}
+mb_url: ${MB_ALBUM_BASE_URL}${album.mbid}
 ---`
 
 
