@@ -2,3 +2,7 @@ public/
 **/.obsidian/
 ./content/.obsidian/
 resources/
+
+.env
+.wrangler
+node_modules

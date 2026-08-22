@@ -46,7 +46,7 @@ params:
     widgets: 
       - "search"
       - "recent"
-      - "categories"
+      # - "categories"
       - "toaster-decades"
 
   widgets:
@@ -81,7 +81,7 @@ params:
       secondaryHighlightColorRgb: "182, 53, 53"
       backgroundColor: "#F1F1F1"
       backgroundColorRgb: "241, 241, 241"
-      secondaryBackgroundColor: "#FFF9E5"
+      secondaryBackgroundColor: "#fffadc"
       secondaryBackgroundColorRgb: "255, 249, 229"
       fontFamilyPrimary: "IBM Plex Serif"
       fontFamilySecondary: "IBM Plex Sans"
@@ -114,3 +114,6 @@ module:
       target: content
       excludeFiles:
         - templates/**
+
+security:
+  allowContent: ['.*']

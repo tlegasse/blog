@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlegasse/blog.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tlegasse/blog/issues"
+  },
+  "homepage": "https://github.com/tlegasse/blog#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}

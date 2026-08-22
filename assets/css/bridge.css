@@ -15,18 +15,18 @@
 
 
 :root {
-	--highlightColor: {{- $highlightColor -}};
-	--highlightColorRgb: {{- $highlightColorRgb -}};
-	--secondaryHighlightColor: {{- $secondaryHighlightColor -}};
-	--secondaryHighlightColorRgb: {{- $secondaryHighlightColorRgb -}};
-	--backgroundColor: {{- $backgroundColor -}};
-	--backgroundColorRgb: {{- $backgroundColorRgb -}};
-	--secondaryBackgroundColor: {{- $secondaryBackgroundColor -}};
-	--secondaryBackgroundColorRgb: {{- $secondaryBackgroundColorRgb -}};
-	--fontSans: "{{- $fontSans -}}";
-	--fontMono: "{{- $fontMono -}}";
-	--fontFamilyPrimary: "{{- $fontFamilyPrimary -}}";
-	--fontFamilySecondary: "{{- $fontFamilySecondary -}}";
-	--fontFamilyMono: "{{- $fontFamilyMono -}}";
+    --highlightColor: {{- $highlightColor -}};
+    --highlightColorRgb: {{- $highlightColorRgb -}};
+    --secondaryHighlightColor: {{- $secondaryHighlightColor -}};
+    --secondaryHighlightColorRgb: {{- $secondaryHighlightColorRgb -}};
+    --backgroundColor: {{- $backgroundColor -}};
+    --backgroundColorRgb: {{- $backgroundColorRgb -}};
+    --secondaryBackgroundColor: {{- $secondaryBackgroundColor -}};
+    --secondaryBackgroundColorRgb: {{- $secondaryBackgroundColorRgb -}};
+    --fontSans: "Drafting Mono";
+    --fontMono: "Drafting Mono";
+    --fontFamilyPrimary: "Drafting Mono";
+    --fontFamilySecondary: "Drafting Mono";
+    --fontFamilyMono: "Drafting Mono";
 }
 
