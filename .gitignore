@@ -2,7 +2,10 @@ public/
 **/.obsidian/
 ./content/.obsidian/
 resources/
+./content/recent_albums/
 
 .env
 .wrangler
 node_modules
+
+

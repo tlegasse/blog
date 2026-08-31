@@ -16,7 +16,7 @@ async function getLbData() {
     "Authorization": `Token ${LB_PASSWORD}`,
   }
 
-  const raw = await fetch(`${LB_BASE_URL}/1/user/${LB_USERNAME}/listens`, {
+  const raw = await fetch(`${LB_BASE_URL}/1/user/${LB_USERNAME}/listens?count=150`, {
     method: "GET",
     headers: header
   });
@@ -60,11 +60,21 @@ async function getAlbumData() {
   for (const listen of data.payload?.listens) {
     const meta = listen.track_metadata
 
-    if (albums[meta.release_name]) continue;
+    if (!meta.mbid_mapping?.release_mbid) {
+      continue;
+    }
+
+    if (albums[meta.release_name]) {
+      albums[meta.release_name].count += 1;
+      continue;
+    }
+
+    if (!meta.mbid_mapping?.release_mbid) continue;
 
     albums[meta.release_name] = {
       artist: meta.artist_name,
-      mbid: meta.mbid_mapping.release_mbid,
+      count: 1,
+      mbid: meta.mbid_mapping?.release_mbid,
     }
   }
 
@@ -73,7 +83,10 @@ async function getAlbumData() {
     const artData = await getCoverArt(album.mbid);
     const { images } = artData
 
-    if (!images) continue;
+    if (!images) {
+      delete albums[albumTitle];
+      continue;
+    }
 
     for (const image of images) {
       if (!image.front) continue
@@ -82,7 +95,17 @@ async function getAlbumData() {
     }
   }
 
-  return albums
+  const sortedAlbumNames = Object.keys(albums).sort((a, b) => {
+    return albums[b].count - albums[a].count
+  }).slice(0, 5)
+
+  const albumsToReturn = {}
+
+  for (const name of sortedAlbumNames) {
+    albumsToReturn[name] = albums[name]
+  }
+
+  return albumsToReturn;
 }
 
 function resetAlbumsDir() {
@@ -123,7 +146,6 @@ mb_url: ${MB_ALBUM_BASE_URL}${album.mbid}
 
 async function populateDynamicData() {
   const albums = await getAlbumData()
-  console.log(albums)
   resetAlbumsDir()
   await writeAlbumMd(albums)
 }

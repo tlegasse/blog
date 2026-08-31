@@ -199,7 +199,9 @@ li {
     order: 0;
     margin: 0;
     background-color: var(--secondaryBackgroundColor);
-    border: var(--dashedBorder);
+    border: 1px solid #4255c3;
+    border-width: 1px;
+    box-shadow: 10px 10px 0 #4255C314;
 }
 
 .clearfix {
@@ -301,6 +303,7 @@ h6 {
 a {
     color: var(--highlightColor);
     text-decoration: underline;
+    background-color: #4255C314;
 }
 
 a:hover {
@@ -501,6 +504,7 @@ select {
 
 .logo__link {
     display: inline-block;
+    background-color: initial;
 }
 
 .logo__item {
