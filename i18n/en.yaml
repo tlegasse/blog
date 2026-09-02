@@ -1,7 +1,10 @@
 # General
 
+- id: recent_projects
+  translation: "Projects⇗"
+
 - id: recent_posts
-  translation: "📰 My Recent Posts"
+  translation: "Articles⇗"
 
 - id: post_date
   translation: "Post Date:"

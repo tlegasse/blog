@@ -6,12 +6,31 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-	<h2 class="recent-post-heading">{{ T "recent_posts" }}</h2>
-	{{- range $paginator.Pages }}
+
+	{{ $projects := where .Site.RegularPages "Type" "projects" }}
+	{{ $posts := where .Site.RegularPages "Type" "posts" }}
+
+	{{- if $projects }}
+	<h2 class="recent-post-heading"><a href="/projects">{{ T "recent_projects" | default "Recent Projects" }}</a></h2>
+	{{- range first 5 $projects }}
 		{{- .Render "summary" }}
 	{{- end }}
-	{{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
+	{{- if gt (len $projects) 5 }}
+	<a class="section-list__more" href="{{ "projects" | absURL }}">{{ T "view_all_projects" | default "View all projects" }} &rarr;</a>
+	{{- end }}
+	{{- end }}
+
+	{{- if $posts }}
+	<h2 class="recent-post-heading"><a href="/posts">{{ T "recent_posts" }}</a></h2>
+	{{- range first 5 $posts }}
+		{{- .Render "summary" }}
+	{{- end }}
+	{{- if gt (len $posts) 5 }}
+	<a class="section-list__more" href="{{ "posts" | absURL }}">{{ T "view_all_posts" | default "View all posts" }} &rarr;</a>
+	{{- end }}
+	{{- end }}
+
+	{{- if and (eq (len $projects) 0) (eq (len $posts) 0) (not $.Content) }}
 		<div class="warning">
 			{{ partial "svg/files.svg" (dict "class" "warning__icon") }}
 			<h3 class="warning__headline">{{ T "noposts_warning_title" | safeHTML }}</h3>
@@ -20,9 +39,7 @@
 				<p class="warning__tip">{{ T "noposts_warning_tip" | safeHTML }}</p>
 			</div>
 		</div>
-	{{ end }}
+	{{- end }}
 </main>
-
-{{ partial "pagination.html" . }}
 
 {{ end }}

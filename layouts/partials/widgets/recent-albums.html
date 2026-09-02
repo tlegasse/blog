@@ -1,7 +1,7 @@
 {{- $recent_albums := where .Site.RegularPages "Type" "in" .Site.Params.recentAlbums }}
 {{- if gt (len $recent_albums) 0 }}
 <div class="widget-recent-albums widget">
-  <h4 class="widget__title">Albums I'm Listening To</h4>
+  <h4 class="widget__title">Albums you should listen to</h4>
   <div class="widget__content">
     <ul class="widget__list">
     {{- range $recent_albums }}

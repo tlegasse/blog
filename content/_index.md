@@ -5,7 +5,7 @@ I'm Tanner, a senior back end developer and sometimes freelancer. I've worked ac
 Through my career, my values have shifted around some simple principles:
 - The shortest path between A and B is always a straight line.
 - The permanent competitive advantage is always: really really giving a shit
-- It's always okay to be you 😉
+- It's always okay to be you ;)
 
 If you want to get in touch, [send me an email](mailto:tanner@legasse.dev) or add a comment on any of my posts!
 
