@@ -116,8 +116,6 @@ By knowing that the original source is a \`list\` type, we don't have to keep tr
 
 # References
 
-1.  Unknown, “Introspection \| GraphQL.” Accessed: Sep. 03, 2026. \[Online\]. Available: [link](https://graphql.org/learn/introspection/)
-
-2.  Unknown, “Introduction (GraphQL-codegen).” Accessed: Sep. 03, 2026. \[Online\]. Available: [link](https://the-guild.dev/graphql/codegen/docs/getting-started)
-
-3.  Unknown, “@Shopify/api-codegen-preset.” Accessed: Sep. 03, 2026. \[Online\]. Available: [link](https://www.npmjs.com/package/@shopify/api-codegen-preset)
+1.  “Introspection \| GraphQL.” Accessed: Sep. 03, 2026. \[Online\]. Available: [link](https://graphql.org/learn/introspection/)
+2.  “Introduction (GraphQL-codegen).” Accessed: Sep. 03, 2026. \[Online\]. Available: [link](https://the-guild.dev/graphql/codegen/docs/getting-started)
+3.  “@Shopify/api-codegen-preset.” Accessed: Sep. 03, 2026. \[Online\]. Available: [link](https://www.npmjs.com/package/@shopify/api-codegen-preset)
