@@ -8,10 +8,10 @@ var fuseOptions = {
     distance: 100,
     minMatchCharLength: 1,
     keys: [
-        {name: "title", weight: 0.45},
-        {name: "contents", weight: 0.4},
-        {name: "tags", weight: 0.1},
-        {name: "categories", weight: 0.05}
+        { name: "title", weight: 0.45 },
+        { name: "contents", weight: 0.4 },
+        { name: "tags", weight: 0.1 },
+        { name: "categories", weight: 0.05 }
     ]
 };
 
@@ -37,14 +37,13 @@ function executeSearch(searchQuery) {
 
     show(document.querySelector('.search-loading'));
 
-    fetch('/index.json').then(function (response) {
-        console.log(response)
+    fetch('/index.json').then(function(response) {
         if (response.status !== 200) {
             console.log('Looks like there was a problem. Status Code: ' + response.status);
             return;
         }
         // Examine the text in the response
-        response.json().then(function (pages) {
+        response.json().then(function(pages) {
             var fuse = new Fuse(pages, fuseOptions);
             var result = fuse.search(searchQuery);
             console.log(result)
@@ -55,9 +54,9 @@ function executeSearch(searchQuery) {
             }
             hide(document.querySelector('.search-loading'));
         })
-        .catch(function (err) {
-            console.log('Fetch Error :-S', err);
-        });
+            .catch(function(err) {
+                console.log('Fetch Error :-S', err);
+            });
     });
 }
 
@@ -69,9 +68,9 @@ function populateResults(results) {
     // pull template from hugo template definition
     var templateDefinition = document.getElementById("search-result-template").innerHTML;
 
-    results.forEach(function (value, key) {
+    results.forEach(function(value, key) {
 
-        var contents = value.item.contents;
+        var contents = value.item.content;
         var snippet = "";
         var snippetHighlights = [];
 
@@ -81,7 +80,7 @@ function populateResults(results) {
         //replace values
         var tags = ""
         if (value.item.tags) {
-            value.item.tags.forEach(function (element) {
+            value.item.tags.forEach(function(element) {
                 tags = tags + "<a href='/tags/" + element + "'>" + "#" + element + "</a> "
             });
         }
@@ -96,7 +95,7 @@ function populateResults(results) {
         });
         searchResults.innerHTML += output;
 
-        snippetHighlights.forEach(function (snipvalue, snipkey) {
+        snippetHighlights.forEach(function(snipvalue, snipkey) {
             var instance = new Mark(document.getElementById('summary-' + key));
             instance.mark(snipvalue);
         });
