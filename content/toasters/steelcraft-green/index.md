@@ -5,8 +5,8 @@ authors:
 title: Steelcraft - The green one
 draft: false
 tags: ["toasters"]
-toaster-decade: "1910s"
-toaster-years: "1919"
+toaster-decade: "1920s"
+toaster-years: "~1920"
 toaster-brands: "Steelcraft"
 toaster-styles: "Popup"
 thumbnail: steelcraft-green-0.jpg
@@ -20,3 +20,5 @@ thumbnail: steelcraft-green-0.jpg
   {{< img src="steelcraft-green-5.jpg" caption="" >}}
   {{< img src="steelcraft-green-6.jpg" caption="" >}}
 {{< /gallery >}}
+
+This thing is in exceptional condition, and I consider myself a very lucky collector as a result.

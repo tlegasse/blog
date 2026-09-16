@@ -5,9 +5,9 @@ authors:
 title: L&H 205 - Vented
 draft: false
 tags: ["toasters"]
-toaster-decade: "1910s"
-toaster-years: "1919"
-toaster-brands: "L&H 205"
+toaster-decade: "1920s"
+toaster-years: "1923?"
+toaster-brands: "L&H"
 toaster-styles: "Dropper"
 thumbnail: lnh-205-vented-0.jpg
 ---
@@ -20,4 +20,4 @@ thumbnail: lnh-205-vented-0.jpg
   {{< img src="lnh-205-vented-5.jpg" caption="" >}}
 {{< /gallery >}}
 
-
+Yep, it's vented!
