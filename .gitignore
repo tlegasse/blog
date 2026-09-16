@@ -2,7 +2,7 @@ public/
 **/.obsidian/
 ./content/.obsidian/
 resources/
-./content/recent_albums/
+content/recent_albums/
 
 .env
 .wrangler
