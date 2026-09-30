@@ -1604,3 +1604,14 @@ nav.menu .menu__btn.menu__btn--active {
         max-width: 100%;
     }
 }
+
+.albums {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.albums > .album {
+    width: calc(100%/3 - 20px/3);
+}

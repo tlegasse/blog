@@ -1,0 +1,27 @@
+{{ define "main" }}
+  {{ $data := dict }}
+  {{ $path := "data/albums.json" }}
+  {{ with resources.Get $path }}
+    {{ with . | transform.Unmarshal }}
+      {{ $data = . }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get page resource %q" $path }}
+  {{ end }}
+
+    <div class="albums">
+      {{- range $k, $v := $data }}
+        <div class="album">
+          <a class="album__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
+            <img class="album__image" src="{{ $v.image }}" alt="{{ $v.Title }}" />
+          </a>
+          <p>
+            <a class="album__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
+              {{ $v.artist }}<br>
+              {{ $v.title }}
+            </a>
+          </p>
+        </div>
+      {{- end }}
+    </div>
+{{ end }}

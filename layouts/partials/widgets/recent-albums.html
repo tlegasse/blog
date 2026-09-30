@@ -1,19 +1,32 @@
-{{- $recent_albums := where .Site.RegularPages "Type" "in" .Site.Params.recentAlbums }}
-{{- if gt (len $recent_albums) 0 }}
+{{ $data := dict }}
+{{ $path := "data/albums.json" }}
+{{ with resources.Get $path }}
+  {{ with . | transform.Unmarshal }}
+    {{ $data = . }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get page resource %q" $path }}
+{{ end }}
+
 <div class="widget-recent-albums widget">
-  <h4 class="widget__title">Albums you should listen to</h4>
+  <h4 class="widget__title">
+    <a href="/recent-albums">Albums you should listen to</a>
+  </h4>
   <div class="widget__content">
     <ul class="widget__list">
-    {{- range $recent_albums }}
+    {{- range $k, $v := $data }}
+      {{ if eq $k 5 }}
+        {{ break }}
+      {{ end }}
+
       <li class="widget__item">
-        <a class="widget__link" href="{{ .Params.mb_url }}">
-          <img class="widget__image" src="{{ .Params.image }}" alt="{{ .Title }}" />
-          {{ .Params.artist }}<br>
-          {{ .Title }}
+        <a class="widget__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
+          <img class="widget__image" src="{{ $v.image }}" alt="{{ $v.Title }}" />
+          {{ $v.artist }}<br>
+          {{ $v.title }}
         </a>
       </li>
     {{- end }}
     </ul>
   </div>
 </div>
-{{- end }}

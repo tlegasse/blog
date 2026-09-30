@@ -66,9 +66,6 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-  recentAlbums:
-    - recent_albums
-
   mainSections:
     - projects
     - posts
@@ -92,9 +89,6 @@ params:
       fontFamilyMono: "IBM Plex Mono"
 
 services:
-  googleAnalytics:
-    ID: G-73381DKG18
-
   disqus:
     shortname: tannerlegasse
 
@@ -110,7 +104,7 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON # necessary for search
+    - JSON
 
 module:
   mounts:

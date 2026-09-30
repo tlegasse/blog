@@ -7,7 +7,7 @@ const LB_BASE_URL = 'https://api.listenbrainz.org'
 const LB_USERNAME = process.env.LISTENBRAINZ_USERNAME
 const LB_PASSWORD = process.env.LISTENBRAINZ_USER_KEY
 
-const ALBUMS_PATH = "./content/recent_albums"
+const DATA_PATH = "./assets/data/"
 const MB_ALBUM_BASE_URL = "https://musicbrainz.org/release/"
 
 // Grab listenbrainz listens
@@ -16,7 +16,7 @@ async function getLbData() {
     "Authorization": `Token ${LB_PASSWORD}`,
   }
 
-  const raw = await fetch(`${LB_BASE_URL}/1/user/${LB_USERNAME}/listens?count=150`, {
+  const raw = await fetch(`${LB_BASE_URL}/1/user/${LB_USERNAME}/listens?count=200`, {
     method: "GET",
     headers: header
   });
@@ -72,6 +72,7 @@ async function getAlbumData() {
     if (!meta.mbid_mapping?.release_mbid) continue;
 
     albums[meta.release_name] = {
+      title: meta.release_name,
       artist: meta.artist_name,
       count: 1,
       mbid: meta.mbid_mapping?.release_mbid,
@@ -97,7 +98,7 @@ async function getAlbumData() {
 
   const sortedAlbumNames = Object.keys(albums).sort((a, b) => {
     return albums[b].count - albums[a].count
-  }).slice(0, 5)
+  })
 
   const albumsToReturn = {}
 
@@ -105,11 +106,11 @@ async function getAlbumData() {
     albumsToReturn[name] = albums[name]
   }
 
-  return albumsToReturn;
+  return Object.values(albumsToReturn);
 }
 
 function resetAlbumsDir() {
-  fs.rmSync(ALBUMS_PATH,
+  fs.rmSync(DATA_PATH,
     {
       recursive: true,
       force: true
@@ -117,37 +118,23 @@ function resetAlbumsDir() {
   );
 
   fs.mkdirSync(
-    ALBUMS_PATH
+    DATA_PATH
   )
 }
 
-async function writeAlbumMd(albums) {
-  for (const albumTitle in albums) {
-    const album = albums[albumTitle]
+async function writeAlbums(albums) {
+  const filename = `${DATA_PATH}/albums.json`;
 
-    const filename = `${ALBUMS_PATH}/${albumTitle.toLowerCase().replace(/ /g, '-')}.md`;
-
-    const fileContents = `---
-build:
-  render: never
-title: ${albumTitle}
-image: ${album.image}
-artist: ${album.artist}
-mb_url: ${MB_ALBUM_BASE_URL}${album.mbid}
----`
-
-
-    fs.writeFileSync(
-      filename,
-      fileContents
-    )
-  }
+  fs.writeFileSync(
+    filename,
+    JSON.stringify(albums)
+  )
 }
 
 async function populateDynamicData() {
   const albums = await getAlbumData()
   resetAlbumsDir()
-  await writeAlbumMd(albums)
+  await writeAlbums(albums)
 }
 
 populateDynamicData()
