@@ -1,4 +1,7 @@
 {{ define "main" }}
+  <h1 class="post__title">{{ .Title }}</h1>
+  <p class="post__content">{{ .Content }}</p>
+
   {{ $data := dict }}
   {{ $path := "data/albums.json" }}
   {{ with resources.Get $path }}
