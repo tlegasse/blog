@@ -20,11 +20,20 @@
       {{ end }}
 
       <li class="widget__item">
-        <a class="widget__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
-          <img class="widget__image" src="{{ $v.image }}" alt="{{ $v.Title }}" />
-          {{ $v.artist }}<br>
-          {{ $v.title }}
-        </a>
+        <div class="album-content">
+          <a class="widget__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
+            <img class="widget__image" src="{{ $v.image }}" alt="{{ $v.Title }}" />
+          </a>
+          <p class="album-content__artist-album">
+            <a class="album-content__artist-name widget__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
+              <b>Artist:</b> {{ $v.artist }}
+            </a>
+            <br />
+            <a class="album-content__artist-album-title widget__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
+              {{ $v.title }}
+            </a>
+          </p>
+        </div>
       </li>
     {{- end }}
     </ul>

@@ -1615,3 +1615,14 @@ nav.menu .menu__btn.menu__btn--active {
 .albums > .album {
     width: calc(100%/3 - 20px/3);
 }
+
+.album-content {
+    display: grid;
+    grid-template-areas: "image text";
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 1rem;
+}
+
+.album-content .album-content__artist-album {
+    grid-area: "text";
+}
