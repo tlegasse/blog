@@ -15,15 +15,18 @@
     <div class="albums">
       {{- range $k, $v := $data }}
         <div class="album">
-          <a class="album__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
-            <img class="album__image" src="{{ $v.image }}" alt="{{ $v.Title }}" />
-          </a>
           <p>
-            <a class="album__link" href="https://musicbrainz.org/release/{{ $v.mbid }}">
-              {{ $v.artist }}<br>
-              {{ $v.title }}
+            <a class="album__link" href="https://musicbrainz.org/release/{{ $v.album.mbid }}">
+              <img class="album__image" src="{{ $v.album.image }}" alt="{{ $v.Title }}" />
             </a>
           </p>
+          <a class="album__link" href="https://musicbrainz.org/release/{{ $v.album.mbid }}">
+            <p>
+              {{ $v.album.title }}
+              <br />
+              <b>Artist</b>: {{ $v.artist.title }}
+            </p>
+          </a>
         </div>
       {{- end }}
     </div>

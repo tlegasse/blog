@@ -16,7 +16,7 @@ async function getLbData() {
     "Authorization": `Token ${LB_PASSWORD}`,
   }
 
-  const raw = await fetch(`${LB_BASE_URL}/1/user/${LB_USERNAME}/listens?count=200`, {
+  const raw = await fetch(`${LB_BASE_URL}/1/user/${LB_USERNAME}/listens?count=100`, {
     method: "GET",
     headers: header
   });
@@ -72,15 +72,20 @@ async function getAlbumData() {
     if (!meta.mbid_mapping?.release_mbid) continue;
 
     albums[meta.release_name] = {
-      title: meta.release_name,
-      artist: meta.artist_name,
+      artist: {
+        title: meta.artist_name,
+        mbid: meta.mbid_mapping?.artist_mbids[0]
+      },
+      album: {
+        title: meta.release_name,
+        mbid: meta.mbid_mapping?.release_mbid,
+      },
       count: 1,
-      mbid: meta.mbid_mapping?.release_mbid,
     }
   }
 
   for (const albumTitle in albums) {
-    const album = albums[albumTitle];
+    const album = albums[albumTitle].album;
     const artData = await getCoverArt(album.mbid);
     const { images } = artData
 

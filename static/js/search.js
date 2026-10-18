@@ -46,7 +46,7 @@ function executeSearch(searchQuery) {
         response.json().then(function(pages) {
             var fuse = new Fuse(pages, fuseOptions);
             var result = fuse.search(searchQuery);
-            console.log(result)
+
             if (result.length > 0) {
                 populateResults(result);
             } else {
@@ -88,7 +88,7 @@ function populateResults(results) {
         var output = render(templateDefinition, {
             key: key,
             title: value.item.title,
-            link: value.item.permalink,
+            link: value.item.ref,
             tags: tags,
             categories: value.item.categories,
             snippet: snippet
@@ -125,6 +125,7 @@ function render(templateString, data) {
         re = new RegExp(find, 'g');
         templateString = templateString.replace(re, data[key]);
     }
+
     return templateString;
 }
 

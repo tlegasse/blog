@@ -1626,3 +1626,18 @@ nav.menu .menu__btn.menu__btn--active {
 .album-content .album-content__artist-album {
     grid-area: "text";
 }
+
+.album-content__artist-album-title {
+    display: block;
+    margin-bottom: 0;
+}
+
+.album-content__artist-name {
+    display: block;
+    margin-top: 10px;
+    color: #859900;
+}
+
+.album-content__image {
+    aspect-ratio: 1/1;
+}
