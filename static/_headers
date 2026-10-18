@@ -1,0 +1,22 @@
+# Cloudflare Pages response headers.
+
+/*
+  Link: </llms.txt>; rel="alternate"; type="text/plain"; title="llms.txt"
+
+# Markdown copies are for LLMs and agents; keep them out of search results so
+# they don't compete with the HTML pages.
+/*.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
+  Access-Control-Allow-Origin: *
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Access-Control-Allow-Origin: *
+
+/llms-full.txt
+  Content-Type: text/plain; charset=utf-8
+  Access-Control-Allow-Origin: *
+
+/*.json
+  Access-Control-Allow-Origin: *

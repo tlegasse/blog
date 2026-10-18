@@ -1,0 +1,32 @@
+{{- /* Machine-readable extras for every HTML page: Markdown alternate, llms.txt
+       pointer and JSON-LD structured data. */ -}}
+{{- with .OutputFormats.Get "markdown" }}
+	<link rel="alternate" type="text/markdown" href="{{ .Permalink }}" title="Markdown version">
+{{- end }}
+	<link rel="alternate" type="text/plain" href="{{ "llms.txt" | absURL }}" title="llms.txt">
+{{- $author := dict "@type" "Person" "name" site.Params.author "url" site.BaseURL "email" (printf "mailto:%s" site.Params.contact.email) "sameAs" (slice "https://github.com/tlegasse" "https://www.linkedin.com/in/tanner-legasse/") }}
+{{- $ld := dict }}
+{{- if .IsHome }}
+	{{- $ld = dict "@context" "https://schema.org" "@type" "WebSite" "name" site.Title "url" site.BaseURL "description" site.Params.description "author" $author "inLanguage" site.Language.Lang }}
+{{- else if .IsPage }}
+	{{- $ld = dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "url" .Permalink "mainEntityOfPage" .Permalink "description" (partial "llm/summary.html" .) "author" $author "inLanguage" site.Language.Lang "wordCount" .WordCount }}
+	{{- with .Date }}{{ if not .IsZero }}{{ $ld = merge $ld (dict "datePublished" (.Format "2006-01-02")) }}{{ end }}{{ end }}
+	{{- with .Lastmod }}{{ if not .IsZero }}{{ $ld = merge $ld (dict "dateModified" (.Format "2006-01-02")) }}{{ end }}{{ end }}
+	{{- with .Params.tags }}{{ $ld = merge $ld (dict "keywords" .) }}{{ end }}
+	{{- with .OutputFormats.Get "markdown" }}{{ $ld = merge $ld (dict "encoding" (dict "@type" "MediaObject" "encodingFormat" "text/markdown" "contentUrl" .Permalink)) }}{{ end }}
+	{{- $images := slice }}
+	{{- range .Resources.ByType "image" }}{{ $images = $images | append .Permalink }}{{ end }}
+	{{- with $images }}{{ $ld = merge $ld (dict "image" .) }}{{ end }}
+	{{- with index .Params "toaster-brands" }}
+		{{- $about := dict "@type" "Product" "name" $.Title "brand" (dict "@type" "Brand" "name" .) "category" "Toaster" }}
+		{{- with index $.Params "toaster-styles" }}{{ $about = merge $about (dict "model" (printf "%s toaster" .)) }}{{ end }}
+		{{- with index $.Params "toaster-years" }}{{ $about = merge $about (dict "productionDate" .) }}{{ end }}
+		{{- with $images }}{{ $about = merge $about (dict "image" .) }}{{ end }}
+		{{- $ld = merge $ld (dict "about" $about) }}
+	{{- end }}
+{{- else }}
+	{{- $items := slice }}
+	{{- range $i, $p := .Pages }}{{ $items = $items | append (dict "@type" "ListItem" "position" (add $i 1) "url" $p.Permalink "name" $p.Title) }}{{ end }}
+	{{- $ld = dict "@context" "https://schema.org" "@type" "CollectionPage" "name" .Title "url" .Permalink "mainEntity" (dict "@type" "ItemList" "numberOfItems" (len $items) "itemListElement" $items) }}
+{{- end }}
+	<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>

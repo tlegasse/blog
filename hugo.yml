@@ -2,6 +2,7 @@ baseURL: https://www.tannerlegasse.com/
 languageCode: en-us
 title: Tanner Legasse
 theme: mainroad
+enableRobotsTXT: true
 
 languages:
   en:
@@ -28,6 +29,12 @@ languages:
           url: "https://github.com/tlegasse"
           pre: <span class="social-icon github-icon"></span>
 params:
+  description: "Tanner Legasse is a senior back end developer writing about Shopify app development, Go, security, demoscene programming, and a large collection of vintage toasters."
+  author: Tanner Legasse
+  opengraph: true
+  schema: true
+  twitter_cards: true
+
   logo:
     title: Tanner <span>Legasse</span>
 
@@ -100,11 +107,60 @@ markup:
   highlight:
     noClasses: false
 
+mediaTypes:
+  text/markdown:
+    suffixes: ["md"]
+
+# LLM-friendly outputs. Everything below is generated from the normal content
+# at build time; nothing is maintained by hand.
+#   /llms.txt            index of the site (https://llmstxt.org)
+#   /llms-full.txt       every page's content in one Markdown file
+#   <any page>/index.md  Markdown version of that page
+#   /toasters/index.json the toaster collection as structured data
+outputFormats:
+  markdown:
+    mediaType: text/markdown
+    baseName: index
+    isPlainText: true
+    rel: alternate
+    permalinkable: false
+  llms:
+    mediaType: text/plain
+    baseName: llms
+    isPlainText: true
+    notAlternative: true
+    root: true
+  llmsfull:
+    mediaType: text/plain
+    baseName: llms-full
+    isPlainText: true
+    notAlternative: true
+    root: true
+
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+    - markdown
+    - llms
+    - llmsfull
+  page:
+    - HTML
+    - markdown
+  section:
+    - HTML
+    - RSS
+    - markdown
+    - JSON
+  taxonomy:
+    - HTML
+    - RSS
+    - markdown
+  term:
+    - HTML
+    - RSS
+    - markdown
 
 module:
   mounts:

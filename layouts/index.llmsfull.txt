@@ -1,0 +1,17 @@
+# {{ site.Title }}: full site content
+
+> {{ site.Params.description }}
+
+Generated {{ now.Format "2006-01-02" }} from {{ site.BaseURL }}. Each page below is separated by a horizontal rule and starts with its title, URL and metadata. An index is at {{ "llms.txt" | absURL }}.
+
+{{ with site.Home.RawContent }}{{ . | strings.TrimSpace }}{{ end }}
+{{ range slice "projects" "posts" "toasters" }}
+{{- with site.GetPage (printf "/%s" .) }}
+{{- range .RegularPages }}
+
+---
+
+{{ partial "llm/page.md" . | strings.TrimSpace }}
+{{ end }}
+{{- end }}
+{{- end }}

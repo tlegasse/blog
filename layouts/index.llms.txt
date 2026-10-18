@@ -1,0 +1,37 @@
+{{- $skip := slice "search" "archives" -}}
+# {{ site.Title }}
+
+> {{ site.Params.description }}
+
+This file follows the llms.txt convention (https://llmstxt.org). Every page on this site also has a Markdown version: add `index.md` to any page URL (for example {{ "posts/" | absURL }}index.md). The entire site's text is in one file at {{ "llms-full.txt" | absURL }}.
+
+- Author: {{ site.Params.author }}
+- Contact: {{ site.Params.contact.email }}
+- GitHub: https://github.com/tlegasse
+- LinkedIn: https://www.linkedin.com/in/tanner-legasse/
+- Last built: {{ now.Format "2006-01-02" }}
+
+{{ with site.Home.RawContent }}{{ . | replaceRE "(?m)^# " "## " | strings.TrimSpace }}
+{{ end }}
+{{- range slice "projects" "posts" "toasters" }}
+{{- with site.GetPage (printf "/%s" .) }}
+
+## {{ .Title }}
+{{ if eq .Section "toasters" }}
+A catalogue of vintage toasters in Tanner's collection, with photos, brand, style, decade and year for each. Full table: {{ .Permalink }}index.md · Structured JSON: {{ .Permalink }}index.json
+{{ end }}
+{{ range .RegularPages }}
+- [{{ .Title }}]({{ .Permalink }}index.md){{ with partial "llm/summary.html" . }}: {{ . }}{{ end }}
+{{- end }}
+{{- end }}
+{{- end }}
+
+## Optional
+
+- [Recent albums]({{ "recent-albums/" | absURL }}index.md): albums Tanner has been listening to lately, generated from ListenBrainz at build time
+{{- range $name, $_ := site.Taxonomies }}
+- [{{ $name | humanize }}]({{ printf "%s/" ($name | urlize) | absURL }}index.md)
+{{- end }}
+- [RSS feed]({{ "index.xml" | absURL }})
+- [Sitemap]({{ "sitemap.xml" | absURL }})
+- [Search index (JSON)]({{ "index.json" | absURL }})

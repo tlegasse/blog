@@ -1,0 +1,19 @@
+{{- /* Plain-text summary of a page for meta descriptions, llms.txt and JSON-LD.
+       Uses the description param if set, otherwise the start of the body with
+       shortcodes, HTML and headings stripped. */ -}}
+{{- $s := .Params.description -}}
+{{- if not $s -}}
+  {{- $s = .RawContent
+    | replaceRE `(?s)\{\{[<%].*?[%>]\}\}` ""
+    | replaceRE `(?s)<[^>]+>` ""
+    | replaceRE `(?s)\x60\x60\x60.*?(\x60\x60\x60|$)` ""
+    | replaceRE `(?m)^#+.*$` ""
+    | markdownify | plainify | htmlUnescape | htmlUnescape
+    | replaceRE `\s+` " " | strings.TrimSpace | truncate 240 -}}
+{{- end -}}
+{{- if and (eq .Section "toasters") (index .Params "toaster-brands") -}}
+  {{- $facts := printf "%s %s toaster" (index .Params "toaster-brands") (lower (index .Params "toaster-styles" | default "")) -}}
+  {{- with index .Params "toaster-years" }}{{ $facts = printf "%s, %s" $facts . }}{{ end -}}
+  {{- $s = cond (eq $s "") (printf "%s." $facts) (printf "%s. %s" $facts $s) -}}
+{{- end -}}
+{{- return $s -}}

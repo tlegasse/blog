@@ -1,0 +1,28 @@
+# Humans, search engines and AI agents are all welcome here.
+#
+# LLM-friendly versions of this site:
+#   {{ "llms.txt" | absURL }}       site index (https://llmstxt.org)
+#   {{ "llms-full.txt" | absURL }}  all content in one Markdown file
+#   Append index.md to any page URL for a Markdown version of that page.
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+User-agent: MistralAI-User
+User-agent: DuckAssistBot
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}

@@ -1,0 +1,15 @@
+{{- $items := slice -}}
+{{- range .Pages -}}
+  {{- $item := dict "title" .Title "url" .Permalink "markdown" (printf "%sindex.md" .Permalink) "tags" .Params.tags "summary" (partial "llm/summary.html" .) -}}
+  {{- with .Date }}{{ if not .IsZero }}{{ $item = merge $item (dict "date" (.Format "2006-01-02")) }}{{ end }}{{ end -}}
+  {{- with index .Params "toaster-brands" }}{{ $item = merge $item (dict "brand" .) }}{{ end -}}
+  {{- with index .Params "toaster-styles" }}{{ $item = merge $item (dict "style" .) }}{{ end -}}
+  {{- with index .Params "toaster-decade" }}{{ $item = merge $item (dict "decade" .) }}{{ end -}}
+  {{- with index .Params "toaster-years" }}{{ $item = merge $item (dict "year" .) }}{{ end -}}
+  {{- with .Resources.ByType "image" -}}
+    {{- $imgs := slice }}{{ range . }}{{ $imgs = $imgs | append .Permalink }}{{ end -}}
+    {{- $item = merge $item (dict "images" $imgs) -}}
+  {{- end -}}
+  {{- $items = $items | append $item -}}
+{{- end -}}
+{{- dict "title" .Title "url" .Permalink "count" (len $items) "items" $items | jsonify (dict "indent" "  ") -}}
